@@ -1,0 +1,34 @@
+{
+    "text_id": "",
+    "title": "",
+    "cat": "",
+    "author_id": "",
+    "date": "",
+    "printed": "",
+    "pdf": "",
+    "author_sh": "",
+    "book_meta": {
+        "title": "",
+        "author": [""],
+        "editor": [""],
+        "<custom fields>": "",
+        "publisher": "",
+        "publication": "",
+        "pages": "",
+        "notes": ""
+    },
+    "author_meta": [""],
+    "volumes": [
+        {
+            "vol_num": "",
+            "pages": [
+                {
+                    "page_id": "",
+                    "page_num": "",
+                    "content": "",
+                    "chapter": [""]
+                }
+            ]
+        }
+    ]
+}
