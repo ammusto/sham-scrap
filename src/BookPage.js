@@ -83,7 +83,7 @@ function BookPage() {
           </tr>
         </tbody>
       </table>
-      <div className='center'><Link to="/">Back to Metadata Table</Link></div>
+      <div className='center back-link-div'><Link to="/">Back to Metadata Table</Link></div>
     </div>
   );
 }

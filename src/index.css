@@ -112,6 +112,7 @@ input[type=text] {
   box-sizing: border-box;
 }
 
+.back-link-div {margin-top:20px;}
 .m10 {
   margin: 10px;
 }
