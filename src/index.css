@@ -100,6 +100,9 @@ table th:last-child {
   max-width: 800px;
   margin: auto;
 }
+.text-content h2 {
+  margin-top:0px;
+}
 
 input[type=text] {
   border-radius: 5px;
@@ -218,6 +221,11 @@ pre {
   padding-right:10px;
 }
 
+.third-column {
+  width: 33.33%;
+  padding: 8px;
+  box-sizing: border-box;
+}
 
 @media (max-width: 1200px) {
   .main {
@@ -235,6 +243,13 @@ pre {
   .main {
     max-width: 100%;
     padding: 0px 20px;
+  }
+  .about-table-container {
+    flex-direction: column;
+  }
+  .third-column {
+    padding-left:50px;
+    width:100%;
   }
 }
 

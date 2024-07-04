@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import FileLink from './FileLink';
 
 function BookPage() {
   const [bookData, setBookData] = useState(null);
@@ -76,9 +77,13 @@ function BookPage() {
             <td>{bookData.cat}</td>
             <td>Category</td>
           </tr>
+          <tr>
+            <td><FileLink textId={id} text="JSON Link" className=""/></td>
+            <td>Download</td>
+          </tr>
         </tbody>
       </table>
-      <Link to="/">Back to Metadata Table</Link>
+      <div className='center'><Link to="/">Back to Metadata Table</Link></div>
     </div>
   );
 }

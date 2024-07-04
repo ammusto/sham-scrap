@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
-import './MetadataTable.css'
+import './MetadataTable.css';
+import FileLink from './FileLink';
 
 function MetadataTable() {
   const [metadata, setMetadata] = useState([]);
@@ -138,47 +139,49 @@ function MetadataTable() {
 
   return (
     <div>
-    <div className='search-container'>
-      <input
-        type="text"
-        value={searchTerm}
-        onChange={handleSearch}
-        placeholder="Search..."
-      />
-    </div>
-    <table className='metadata-table'>
-      <thead>
-        <tr>
-          {['text_id', 'title', 'author_sh', 'cat', 'date'].map((key) => (
-            <th key={key} onClick={() => requestSort(key)}>
-              {key.charAt(0).toUpperCase() + key.slice(1)}
-              {sortConfig.key === key && (
-                <span>{sortConfig.direction === 'ascending' ? ' ▲' : ' ▼'}</span>
-              )}
-            </th>
-          ))}
-        </tr>
-      </thead>
-      <tbody>
-        {currentItems.map((item) => (
-          <tr key={item.text_id}>
-            <td>
-              <Link to={`/book/${item.text_id}`}>{item.text_id}</Link>
-            </td>
-            <td>
-              <Link to={`/book/${item.text_id}`}>{item.title}</Link>
-            </td>
-            <td>
-              <Link to={`/author/${item.author_id}`}>{item.author_sh}</Link>
-            </td>
-            <td>{item.cat}</td>
-            <td>{item.date}</td>
+      <div className='search-container'>
+        <input
+          type="text"
+          value={searchTerm}
+          onChange={handleSearch}
+          placeholder="Search..."
+        />
+      </div>
+      <table className='metadata-table'>
+        <thead>
+          <tr>
+            {['text_id', 'title', 'author_sh', 'cat', 'date'].map((key) => (
+              <th key={key} onClick={() => requestSort(key)}>
+                {key.charAt(0).toUpperCase() + key.slice(1)}
+                {sortConfig.key === key && (
+                  <span>{sortConfig.direction === 'ascending' ? ' ▲' : ' ▼'}</span>
+                )}
+              </th>
+            ))}
+            <th></th>
           </tr>
-        ))}
-      </tbody>
-    </table>
-    {renderPagination()}
-  </div>
+        </thead>
+        <tbody>
+          {currentItems.map((item) => (
+            <tr key={item.text_id}>
+              <td>
+                <Link to={`/book/${item.text_id}`}>{item.text_id}</Link>
+              </td>
+              <td>
+                <Link to={`/book/${item.text_id}`}>{item.title}</Link>
+              </td>
+              <td>
+                <Link to={`/author/${item.author_id}`}>{item.author_sh}</Link>
+              </td>
+              <td>{item.cat}</td>
+              <td>{item.date}</td>
+              <td><FileLink textId={item.text_id} text="💾" className="download-link"/></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      {renderPagination()}
+    </div>
   );
 }
 

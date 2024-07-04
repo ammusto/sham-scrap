@@ -16,6 +16,7 @@
     padding: 8px;
     cursor: pointer;
     text-align: left !important;
+    white-space: nowrap;
   }
   
   .metadata-table td {
@@ -36,7 +37,7 @@
   .metadata-table td:nth-child(3),
   .metadata-table th:nth-child(3)
  {
-    width: 30%;
+    width: 25%;
     text-align: left !important;
   }
   
@@ -46,7 +47,11 @@
   }
   .metadata-table td:nth-child(5),
   .metadata-table th:nth-child(5) {
-    width: 10%;
+    width: 5%;
+  }
+  .metadata-table td:nth-child(6),
+  .metadata-table th:nth-child(6) {
+    width: 5%;
   }
 
   .search-container {
@@ -56,6 +61,10 @@
 
   .search-container input {
     width:100%;
+  }
+
+  .download-link {
+    text-decoration: none !important;
   }
   
   .meta-show-items {
@@ -68,7 +77,6 @@
     border-radius: 10px;
     margin: 0px 10px;
   }
-  
 
   .individual-meta,
   .individual-meta td {

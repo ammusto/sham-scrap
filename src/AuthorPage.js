@@ -57,7 +57,8 @@ function AuthorPage() {
           )}
         </tbody>
       </table>
-      <Link to="/">Back to Metadata Table</Link>
+      <div className='center'><Link to="/">Back to Metadata Table</Link>
+      </div>
     </div>
   );
 }

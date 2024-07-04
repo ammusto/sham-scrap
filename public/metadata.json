@@ -1,5 +1,258 @@
 [
   {
+    "text_id": 1,
+    "title": "الفواكه العذاب في الرد على من لم يحكم السنة والكتاب",
+    "cat": "العقيدة",
+    "author_id": 513,
+    "date": 1225,
+    "pdf": "https://archive.org/download/41557/41557.pdf",
+    "author_sh": "حمد بن ناصر آل معمر",
+    "num_volumes": 1,
+    "total_pages": 90
+  },
+  {
+    "text_id": 10,
+    "title": "تجريد القواعد والفوائد الأصولية",
+    "cat": "علوم الفقه والقواعد الفقهية",
+    "author_id": 2987,
+    "date": 99999,
+    "pdf": "https://archive.org/download/tjrdqwd/tjrdqwd.pdf",
+    "author_sh": "عبد العزيز العيدان",
+    "num_volumes": 1,
+    "total_pages": 187
+  },
+  {
+    "text_id": 100,
+    "title": "تأملات في السور والآيات",
+    "cat": "التفسير",
+    "author_id": 3065,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "أحمد قشوع",
+    "num_volumes": 1,
+    "total_pages": 122
+  },
+  {
+    "text_id": 1000,
+    "title": "وفيات الأعيان",
+    "cat": "التراجم والطبقات",
+    "author_id": 715,
+    "date": 681,
+    "pdf": "",
+    "author_sh": "ابن خلكان",
+    "num_volumes": 7,
+    "total_pages": 3224
+  },
+  {
+    "text_id": 10000,
+    "title": "الأدب الجاهلي في آثار الدارسين قديما وحديثا",
+    "cat": "الأدب",
+    "author_id": 1998,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "عفيف عبد الرحمن",
+    "num_volumes": 1,
+    "total_pages": 328
+  },
+  {
+    "text_id": 10001,
+    "title": "شعر الفتوح الإسلامية في صدر الإسلام",
+    "cat": "الأدب",
+    "author_id": 1999,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "النعمان عبد المتعال القاضي",
+    "num_volumes": 1,
+    "total_pages": 304
+  },
+  {
+    "text_id": 10002,
+    "title": "دراسات في علوم القرآن - محمد بكر إسماعيل",
+    "cat": "علوم القرآن وأصول التفسير",
+    "author_id": 2000,
+    "date": 1426,
+    "pdf": "",
+    "author_sh": "محمد بكر إسماعيل",
+    "num_volumes": 1,
+    "total_pages": 465
+  },
+  {
+    "text_id": 10003,
+    "title": "فن المقال الصحفي في أدب طه حسين",
+    "cat": "الأدب",
+    "author_id": 2001,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "عبد العزيز شرف",
+    "num_volumes": 1,
+    "total_pages": 424
+  },
+  {
+    "text_id": 10004,
+    "title": "الاستشراق والتبشير",
+    "cat": "كتب عامة",
+    "author_id": 1646,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "محمد السيد الجليند",
+    "num_volumes": 1,
+    "total_pages": 131
+  },
+  {
+    "text_id": 10006,
+    "title": "تاريخ الفكر الديني الجاهلي",
+    "cat": "العقيدة",
+    "author_id": 2002,
+    "date": 1427,
+    "pdf": "",
+    "author_sh": "محمد إبراهيم الفيومي",
+    "num_volumes": 1,
+    "total_pages": 634
+  },
+  {
+    "text_id": 10007,
+    "title": "طرق تدريس التربية الإسلامية نماذج لإعداد دروسها",
+    "cat": "مسائل فقهية",
+    "author_id": 2003,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "عبد الرشيد عبد العزيز سالم",
+    "num_volumes": 1,
+    "total_pages": 328
+  },
+  {
+    "text_id": 10008,
+    "title": "ديكارت مبادئ الفلسفة",
+    "cat": "علوم أخرى",
+    "author_id": 2004,
+    "date": 1398,
+    "pdf": "",
+    "author_sh": "عثمان أمين",
+    "num_volumes": 1,
+    "total_pages": 95
+  },
+  {
+    "text_id": 10009,
+    "title": "مناهج البحث في العلوم السياسية",
+    "cat": "علوم أخرى",
+    "author_id": 2005,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "محمد محمود ربيع",
+    "num_volumes": 1,
+    "total_pages": 328
+  },
+  {
+    "text_id": 1001,
+    "title": "ذخائر العقبى في مناقب ذوي القربى",
+    "cat": "السيرة النبوية",
+    "author_id": 308,
+    "date": 694,
+    "pdf": "",
+    "author_sh": "الطبري، محب الدين",
+    "num_volumes": 1,
+    "total_pages": 258
+  },
+  {
+    "text_id": 10010,
+    "title": "إتحاف فضلاء البشر في القراءات الأربعة عشر",
+    "cat": "التجويد والقراءات",
+    "author_id": 1441,
+    "date": 1117,
+    "pdf": "",
+    "author_sh": "البناء",
+    "num_volumes": 1,
+    "total_pages": 633
+  },
+  {
+    "text_id": 10011,
+    "title": "تنبيه الخلان بتكميل مورد الظمآن مطبوع ضمن كتاب دليل الحيران على مورد الظمآن",
+    "cat": "التجويد والقراءات",
+    "author_id": 2006,
+    "date": 1090,
+    "pdf": "",
+    "author_sh": "ابن عاشر",
+    "num_volumes": 1,
+    "total_pages": 45
+  },
+  {
+    "text_id": 10013,
+    "title": "الفكر السامي في تاريخ الفقه الإسلامي",
+    "cat": "أصول الفقه",
+    "author_id": 2007,
+    "date": 1376,
+    "pdf": "",
+    "author_sh": "الحجوي",
+    "num_volumes": 2,
+    "total_pages": 1239
+  },
+  {
+    "text_id": 10014,
+    "title": "رسم المصحف العثماني وأوهام المستشرقين في قراءات القرآن الكريم",
+    "cat": "التجويد والقراءات",
+    "author_id": 2008,
+    "date": 1422,
+    "pdf": "",
+    "author_sh": "عبد الفتاح شلبي",
+    "num_volumes": 1,
+    "total_pages": 115
+  },
+  {
+    "text_id": 10015,
+    "title": "مختصر في قواعد التفسير",
+    "cat": "علوم القرآن وأصول التفسير",
+    "author_id": 2009,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "خالد السبت",
+    "num_volumes": 1,
+    "total_pages": 46
+  },
+  {
+    "text_id": 10016,
+    "title": "العقد التليد في اختصار الدر النضيد = المعيد في أدب المفيد والمستفيد",
+    "cat": "أصول الفقه",
+    "author_id": 2010,
+    "date": 981,
+    "pdf": "",
+    "author_sh": "العلموي",
+    "num_volumes": 1,
+    "total_pages": 344
+  },
+  {
+    "text_id": 10017,
+    "title": "الإقناع في القراءات السبع",
+    "cat": "التجويد والقراءات",
+    "author_id": 2011,
+    "date": 540,
+    "pdf": "",
+    "author_sh": "ابن الباذش",
+    "num_volumes": 1,
+    "total_pages": 507
+  },
+  {
+    "text_id": 10018,
+    "title": "النحو الواضح في قواعد اللغة العربية",
+    "cat": "النحو والصرف",
+    "author_id": 2012,
+    "date": 1368,
+    "pdf": "",
+    "author_sh": "علي الجارم",
+    "num_volumes": 2,
+    "total_pages": 952
+  },
+  {
+    "text_id": 10019,
+    "title": "علم اللغة مقدمة للقارئ العربي",
+    "cat": "كتب اللغة",
+    "author_id": 2013,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "محمود السعران",
+    "num_volumes": 1,
+    "total_pages": 313
+  },
+  {
     "text_id": 1002,
     "title": "نفح الطيب من غصن الاندلس الرطيب ت إحسان عباس",
     "cat": "الأدب",
@@ -1879,6 +2132,17 @@
     "author_sh": "ابن الجوزي",
     "num_volumes": 1,
     "total_pages": 465
+  },
+  {
+    "text_id": 10438,
+    "title": "الجامع لكتب الضعفاء والمتروكين والكذابين",
+    "cat": "التراجم والطبقات",
+    "author_id": 2479,
+    "date": 99999,
+    "pdf": "https://archive.org/download/gdmk_20231028/",
+    "author_sh": "شادي آل نعمان",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 1044,
@@ -5091,6 +5355,17 @@
     "author_sh": "نسيم الدين المرشدي",
     "num_volumes": 1,
     "total_pages": 87
+  },
+  {
+    "text_id": 1110,
+    "title": "أسد الغابة في معرفة الصحابة - ط العلمية",
+    "cat": "التراجم والطبقات",
+    "author_id": 244,
+    "date": 630,
+    "pdf": "https://archive.org/download/mngool.com_713/",
+    "author_sh": "عز الدين ابن الأثير",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 11100,
@@ -9614,6 +9889,17 @@
     "total_pages": 60
   },
   {
+    "text_id": 1175,
+    "title": "حث الأتباع على تجريد الاتباع",
+    "cat": "العقيدة",
+    "author_id": 1083,
+    "date": 99999,
+    "pdf": "https://archive.org/download/ftrsk/hthtb.pdf",
+    "author_sh": "محمد بن خليفة التميمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 11750,
     "title": "شرح شافية ابن الحاجب - ركن الدين الاستراباذي",
     "cat": "النحو والصرف",
@@ -9810,6 +10096,17 @@
     "author_sh": "ابن فضلان",
     "num_volumes": 1,
     "total_pages": 131
+  },
+  {
+    "text_id": 1178,
+    "title": "فتح الرحيم في الصلاة والسلام على النبي الكريم صلى الله عليه وسلم",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 1083,
+    "date": 99999,
+    "pdf": "https://archive.org/download/ftrsk/ftrsk.pdf",
+    "author_sh": "محمد بن خليفة التميمي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 11780,
@@ -10175,6 +10472,17 @@
     "total_pages": 36
   },
   {
+    "text_id": 1193,
+    "title": "نهج الوصول الي حقيقة محبة الرسول صلى الله عليه وسلم",
+    "cat": "العقيدة",
+    "author_id": 1083,
+    "date": 99999,
+    "pdf": "https://archive.org/download/ftrsk/nahg.pdf",
+    "author_sh": "محمد بن خليفة التميمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 11930,
     "title": "المنتقى من كتاب مكارم الأخلاق ومعاليها",
     "cat": "كتب السنة",
@@ -10184,6 +10492,17 @@
     "author_sh": "الخرائطي",
     "num_volumes": 1,
     "total_pages": 842
+  },
+  {
+    "text_id": 1194,
+    "title": "سنن ابن ماجه - ت هادي",
+    "cat": "كتب السنة",
+    "author_id": 218,
+    "date": 273,
+    "pdf": "https://archive.org/download/snmgsdq/snmgsdq.pdf",
+    "author_sh": "ابن ماجه",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 11940,
@@ -10362,6 +10681,17 @@
     "total_pages": 1102
   },
   {
+    "text_id": 1200,
+    "title": "المستدرك على الصحيحين - ط المنهاج القويم",
+    "cat": "كتب السنة",
+    "author_id": 231,
+    "date": 405,
+    "pdf": "https://archive.org/download/mstmng/",
+    "author_sh": "أبو عبد الله الحاكم",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12001,
     "title": "تحقيق التجريد في شرح كتاب التوحيد",
     "cat": "العقيدة",
@@ -10426,6 +10756,17 @@
     "author_sh": "ابن بطوطة",
     "num_volumes": 2,
     "total_pages": 582
+  },
+  {
+    "text_id": 1201,
+    "title": "الدعاء ومنزلته من العقيدة الإسلامية",
+    "cat": "العقيدة",
+    "author_id": 3041,
+    "date": 99999,
+    "pdf": "https://archive.org/download/29368/29368.pdf",
+    "author_sh": "جيلان بن خضر العروسي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12010,
@@ -10558,6 +10899,17 @@
     "author_sh": "ابن النجار الفتوحي",
     "num_volumes": 4,
     "total_pages": 2398
+  },
+  {
+    "text_id": 1202,
+    "title": "العقد المفرد في الفقه على مذهب الإمام أحمد",
+    "cat": "الفقه الحنبلي",
+    "author_id": 2086,
+    "date": 1335,
+    "pdf": "https://archive.org/download/147965/147965.pdf",
+    "author_sh": "أبو عياشة محمد البيومي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12021,
@@ -10791,6 +11143,17 @@
     "total_pages": 955
   },
   {
+    "text_id": 1205,
+    "title": "القواعد الكلية في باب القدر",
+    "cat": "العقيدة",
+    "author_id": 2111,
+    "date": 99999,
+    "pdf": "https://archive.org/download/147384/147384.pdf",
+    "author_sh": "ربيع بن أحمد البيطار",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12050,
     "title": "كتاب الأفعال",
     "cat": "الغريب والمعاجم",
@@ -10855,6 +11218,17 @@
     "author_sh": "ناصر بن علي عائض حسن الشيخ",
     "num_volumes": 1,
     "total_pages": 696
+  },
+  {
+    "text_id": 1206,
+    "title": "المختصر الصغير لابن عبد الحكم «خلافيات في الفقه»",
+    "cat": "الفقه المالكي",
+    "author_id": 1732,
+    "date": 214,
+    "pdf": "https://archive.org/download/khltsl/138172.pdf",
+    "author_sh": "ابن عبد الحكم الفقيه",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12061,
@@ -10932,6 +11306,17 @@
     "author_sh": "محمد أنور البكري",
     "num_volumes": 1,
     "total_pages": 90
+  },
+  {
+    "text_id": 1207,
+    "title": "تحصيل عين الذهب من معدن جوهر الأدب في علم مجازات العرب",
+    "cat": "الأدب",
+    "author_id": 1227,
+    "date": 476,
+    "pdf": "https://archive.org/download/tshanzhb/tshanzhb.pdf",
+    "author_sh": "الأعلم الشنتمري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12070,
@@ -11033,6 +11418,17 @@
     "total_pages": 174
   },
   {
+    "text_id": 1208,
+    "title": "تحفة الغريب بتراجم رجال معجمي الحافظ الطبراني الأوسط والصغير ممن ليس في التهذيب",
+    "cat": "التراجم والطبقات",
+    "author_id": 2215,
+    "date": 99999,
+    "pdf": "https://archive.org/download/khltsl/110631.pdf",
+    "author_sh": "توفيق الزنتاني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12080,
     "title": "مقدمات في علم مقالات الفرق",
     "cat": "العقيدة",
@@ -11119,6 +11515,17 @@
     "author_sh": "يحيى بن إبراهيم السلماسي",
     "num_volumes": 1,
     "total_pages": 244
+  },
+  {
+    "text_id": 1209,
+    "title": "تيسير الودود بتراجم رجال منتقى ابن الجارود",
+    "cat": "التراجم والطبقات",
+    "author_id": 1137,
+    "date": 99999,
+    "pdf": "https://archive.org/download/khltsl/158717.pdf",
+    "author_sh": "أبو الطيب نايف المنصوري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12090,
@@ -11253,6 +11660,17 @@
     "total_pages": 107
   },
   {
+    "text_id": 1210,
+    "title": "خلاصة التأصيل لعلم الجرح والتعديل - ط المعراج",
+    "cat": "علوم الحديث",
+    "author_id": 75,
+    "date": 99999,
+    "pdf": "https://archive.org/download/khltsl/khltsl.pdf",
+    "author_sh": "حاتم العوني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12100,
     "title": "منهج الطلاب في فقه الإمام الشافعي رضي الله عنه",
     "cat": "الفقه الشافعي",
@@ -11352,6 +11770,17 @@
     "total_pages": 243
   },
   {
+    "text_id": 1211,
+    "title": "سراج المريدين فى سبيل الدين",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 22,
+    "date": 543,
+    "pdf": "https://archive.org/download/sirjmd/",
+    "author_sh": "أبو بكر ابن العربي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12110,
     "title": "نزول القرآن الكريم والعناية به في عهد الرسول صلى الله عليه وسلم",
     "cat": "التجويد والقراءات",
@@ -11416,6 +11845,17 @@
     "author_sh": "الشرنبلالي",
     "num_volumes": 1,
     "total_pages": 183
+  },
+  {
+    "text_id": 1212,
+    "title": "معجم شيوخ ابن الأعرابي - ط العلمية",
+    "cat": "كتب السنة",
+    "author_id": 517,
+    "date": 340,
+    "pdf": "https://archive.org/download/mjmsibnrabi/",
+    "author_sh": "ابن الأعرابي المحدث",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12120,
@@ -11845,6 +12285,17 @@
     "author_sh": "عبد الله السهلي",
     "num_volumes": 1,
     "total_pages": 37
+  },
+  {
+    "text_id": 1218,
+    "title": "نيل الأوطار شرح منتقى الأخبار - ت حلاق",
+    "cat": "شروح الحديث",
+    "author_id": 100,
+    "date": 1250,
+    "pdf": "https://archive.org/download/nlwtarhlq/",
+    "author_sh": "الشوكاني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12181,
@@ -12309,6 +12760,17 @@
     "total_pages": 1747
   },
   {
+    "text_id": 1224,
+    "title": "هدي الساري مقدمة فتح الباري - ط السلفية",
+    "cat": "شروح الحديث",
+    "author_id": 202,
+    "date": 852,
+    "pdf": "https://archive.org/download/ftbsbkhslfiya/01p_2021.pdf",
+    "author_sh": "ابن حجر العسقلاني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 122400,
     "title": "التاريخ وأسماء المحدثين وكناهم",
     "cat": "التراجم والطبقات",
@@ -12518,6 +12980,17 @@
     "total_pages": 320
   },
   {
+    "text_id": 1229,
+    "title": "المسائل الفقهية التي عليها الفتوى عند متأخري الحنفية - جمعا ودراسة-",
+    "cat": "الفقه الحنفي",
+    "author_id": 2224,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "سناد تسرنكتش",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12293,
     "title": "مجموع فتاوى ورسائل العثيمين",
     "cat": "الفتاوى",
@@ -12538,6 +13011,17 @@
     "author_sh": "سليمان بن محمد الدبيخي",
     "num_volumes": 1,
     "total_pages": 669
+  },
+  {
+    "text_id": 1230,
+    "title": "المسائل الفقهية في ضوء ما اتفق عليه في الطهارات",
+    "cat": "الفقه العام",
+    "author_id": 2268,
+    "date": 99999,
+    "pdf": "https://archive.org/download/msftfq/msftfq.pdf",
+    "author_sh": "عبد الله نذير قشلان",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12300,
@@ -12562,6 +13046,17 @@
     "total_pages": 5061
   },
   {
+    "text_id": 1231,
+    "title": "المدخل إلي جامع الترمذي",
+    "cat": "علوم الحديث",
+    "author_id": 2322,
+    "date": 99999,
+    "pdf": "https://archive.org/download/mgatz/",
+    "author_sh": "عبد الله السعد",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12317,
     "title": "الأنساب - السمعاني - ط الهندية",
     "cat": "الأنساب",
@@ -12584,6 +13079,17 @@
     "total_pages": 1267
   },
   {
+    "text_id": 1232,
+    "title": "التحفة المكية في توضيح أهم القواعد الفقهية",
+    "cat": "علوم الفقه والقواعد الفقهية",
+    "author_id": 2267,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "محمد بن صالح الشاوي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12320,
     "title": "تاريخ ابن خلدون",
     "cat": "التاريخ",
@@ -12593,6 +13099,28 @@
     "author_sh": "ابن خلدون",
     "num_volumes": 8,
     "total_pages": 5514
+  },
+  {
+    "text_id": 1233,
+    "title": "اللآليء المكية من كلام خير البرية",
+    "cat": "شروح الحديث",
+    "author_id": 2267,
+    "date": 99999,
+    "pdf": "https://archive.org/download/lmkhbry/lmkhbry.pdf",
+    "author_sh": "محمد بن صالح الشاوي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1234,
+    "title": "درر من تفسير القرطبي",
+    "cat": "التفسير",
+    "author_id": 1925,
+    "date": 99999,
+    "pdf": "https://archive.org/download/rbtdn/drmtfsk.pdf",
+    "author_sh": "أحمد مرشد",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12347,
@@ -12648,6 +13176,17 @@
     "author_sh": "عبد الخالق بن أسد",
     "num_volumes": 1,
     "total_pages": 431
+  },
+  {
+    "text_id": 1236,
+    "title": "ربط الديون والالتزامات الآجلة بالذهب أو الفضة أو بسلة من العملات أو بمستوى الأسعار وحكمه شرعا",
+    "cat": "مسائل فقهية",
+    "author_id": 1973,
+    "date": 99999,
+    "pdf": "https://archive.org/download/rbtdn/rbtdn.pdf",
+    "author_sh": "صالح بن زابن المرزوقي البقمي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 123608,
@@ -12837,6 +13376,17 @@
     "total_pages": 4240
   },
   {
+    "text_id": 1237,
+    "title": "السر المصون على كشف الظنون - قطعة منه",
+    "cat": "فهارس الكتب والأدلة",
+    "author_id": 2317,
+    "date": 1352,
+    "pdf": "https://archive.org/download/mgatz/smzkzn.pdf",
+    "author_sh": "ابن العظم",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12375,
     "title": "السلفيون والأئمة الأربعة - رضي الله عنهم -",
     "cat": "كتب عامة",
@@ -12848,6 +13398,17 @@
     "total_pages": 49
   },
   {
+    "text_id": 1238,
+    "title": "شركات العقد في الشرع الإسلامي",
+    "cat": "مسائل فقهية",
+    "author_id": 1973,
+    "date": 99999,
+    "pdf": "https://archive.org/download/rbtdn/shrkaqd.pdf",
+    "author_sh": "صالح بن زابن المرزوقي البقمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12380,
     "title": "علم أصول الفقه وخلاصة تاريخ التشريع ط المدني",
     "cat": "أصول الفقه",
@@ -12857,6 +13418,17 @@
     "author_sh": "عبد الوهاب خلاف",
     "num_volumes": 1,
     "total_pages": 254
+  },
+  {
+    "text_id": 1239,
+    "title": "المدخل في تاريخ السنة",
+    "cat": "علوم الحديث",
+    "author_id": 1297,
+    "date": 99999,
+    "pdf": "https://archive.org/download/rbtdn/mdtrksna.pdf",
+    "author_sh": "هانى فقيه",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12392,
@@ -12936,6 +13508,17 @@
     "total_pages": 741
   },
   {
+    "text_id": 1240,
+    "title": "ذيل كشف الظنون - الطهراني",
+    "cat": "فهارس الكتب والأدلة",
+    "author_id": 2309,
+    "date": 1389,
+    "pdf": "https://archive.org/download/kashf_istanbul/d_zail.pdf",
+    "author_sh": "آغا بزرك الطهراني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12400,
     "title": "الفخري في الآداب السلطانية والدول الإسلامية",
     "cat": "السياسة الشرعية والقضاء",
@@ -12989,6 +13572,17 @@
     "author_sh": "ابن الجوزي",
     "num_volumes": 19,
     "total_pages": 6790
+  },
+  {
+    "text_id": 1241,
+    "title": "هداية الراغب لشرح عمدة الطالب - ط ركائز",
+    "cat": "الفقه الحنبلي",
+    "author_id": 1765,
+    "date": 1097,
+    "pdf": "https://archive.org/download/hdrageb/",
+    "author_sh": "ابن قائد",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12415,
@@ -13189,6 +13783,17 @@
     "total_pages": 386
   },
   {
+    "text_id": 1246,
+    "title": "الصحيح المنتخل من كلام الأولين في بدع العمل",
+    "cat": "كتب عامة",
+    "author_id": 3064,
+    "date": 99999,
+    "pdf": "https://archive.org/download/smtbdq/smtbdql.pdf",
+    "author_sh": "محمد بن مبارك حكيمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1247,
     "title": "الرد الأمين",
     "cat": "الفرق والردود",
@@ -13277,6 +13882,28 @@
     "total_pages": 194
   },
   {
+    "text_id": 1250,
+    "title": "تهذيب مستمر الأوهام على ذوي المعرفة وأولي الأفهام - ت الشوامي",
+    "cat": "التراجم والطبقات",
+    "author_id": 708,
+    "date": 475,
+    "pdf": "https://archive.org/download/tmstmh/tmstmh.pdf",
+    "author_sh": "ابن ماكولا",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1251,
+    "title": "بغية المستفيد في شرح كتاب التوحيد",
+    "cat": "العقيدة",
+    "author_id": 2323,
+    "date": 99999,
+    "pdf": "https://archive.org/download/bmshtwhd/bmshtwhd.pdf",
+    "author_sh": "منصور الصقعوب",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12515,
     "title": "جزء من حديث الأوزاعي لابن حذلم",
     "cat": "كتب السنة",
@@ -13286,6 +13913,17 @@
     "author_sh": "أحمد بن حذلم",
     "num_volumes": 1,
     "total_pages": 42
+  },
+  {
+    "text_id": 1252,
+    "title": "تقريب الوصول إلى ثلاثة الأصول",
+    "cat": "العقيدة",
+    "author_id": 2323,
+    "date": 99999,
+    "pdf": "https://archive.org/download/bmshtwhd/tqwsl.pdf",
+    "author_sh": "منصور الصقعوب",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12520,
@@ -13341,6 +13979,17 @@
     "author_sh": "أبو إسحاق الصريفيني",
     "num_volumes": 1,
     "total_pages": 530
+  },
+  {
+    "text_id": 1253,
+    "title": "محض الإصابة في تحرير عقيدة أهل السنة ومخالفيهم في الصحابة",
+    "cat": "العقيدة",
+    "author_id": 1319,
+    "date": 99999,
+    "pdf": "https://archive.org/download/entsralshb/mhdsaba.pdf",
+    "author_sh": "إبراهيم بن عامر الرحيلي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12531,
@@ -13420,6 +14069,17 @@
     "total_pages": 6
   },
   {
+    "text_id": 12549,
+    "title": "مجلس من أمالي طراد الزينبي",
+    "cat": "كتب السنة",
+    "author_id": 2196,
+    "date": 491,
+    "pdf": "",
+    "author_sh": "طراد الزينبي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12569,
     "title": "التأويل خطورته وآثاره",
     "cat": "الفرق والردود",
@@ -13429,6 +14089,17 @@
     "author_sh": "عمر سليمان الأشقر",
     "num_volumes": 1,
     "total_pages": 69
+  },
+  {
+    "text_id": 1257,
+    "title": "المعتبر في عقيدة أهل السنة ومخالفيهم في القدر",
+    "cat": "العقيدة",
+    "author_id": 1319,
+    "date": 99999,
+    "pdf": "https://archive.org/download/entsralshb/mtbrkdar.pdf",
+    "author_sh": "إبراهيم بن عامر الرحيلي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12570,
@@ -13475,6 +14146,17 @@
     "total_pages": 4518
   },
   {
+    "text_id": 1258,
+    "title": "الرد السديد على مطاعن حسن المالكي على أئمة الدعوة ومقررات التوحيد",
+    "cat": "الفرق والردود",
+    "author_id": 1319,
+    "date": 99999,
+    "pdf": "https://archive.org/download/entsralshb/rsdhsf.pdf",
+    "author_sh": "إبراهيم بن عامر الرحيلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12581,
     "title": "المؤتلف والمختلف للدارقطني",
     "cat": "التراجم والطبقات",
@@ -13484,6 +14166,17 @@
     "author_sh": "الدارقطني",
     "num_volumes": 4,
     "total_pages": 2153
+  },
+  {
+    "text_id": 1259,
+    "title": "تجريد الاتباع في بيان أسباب تفاضل الأعمال",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 1319,
+    "date": 99999,
+    "pdf": "https://archive.org/download/entsralshb/tgrdteba.pdf",
+    "author_sh": "إبراهيم بن عامر الرحيلي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 126,
@@ -13497,6 +14190,39 @@
     "total_pages": 126
   },
   {
+    "text_id": 1260,
+    "title": "التحرير في شرح صحيح مسلم - الأصبهاني",
+    "cat": "شروح الحديث",
+    "author_id": 204,
+    "date": 535,
+    "pdf": "https://archive.org/download/shmqwm/shmqwm.pdf",
+    "author_sh": "إسماعيل التيمي الأصبهاني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1261,
+    "title": "شرح صحيح البخاري - الأصبهاني",
+    "cat": "شروح الحديث",
+    "author_id": 204,
+    "date": 535,
+    "pdf": "https://archive.org/download/shmqwm/",
+    "author_sh": "إسماعيل التيمي الأصبهاني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1262,
+    "title": "المبدع شرح المقنع - ط ركائز",
+    "cat": "الفقه الحنبلي",
+    "author_id": 900,
+    "date": 884,
+    "pdf": "https://archive.org/download/mobde/",
+    "author_sh": "برهان الدين ابن مفلح الحفيد",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12624,
     "title": "الإسلام أصوله ومبادئه",
     "cat": "العقيدة",
@@ -13508,6 +14234,61 @@
     "total_pages": 172
   },
   {
+    "text_id": 1263,
+    "title": "المقاصد الحسنة في بيان كثير من الأحاديث المشتهرة على الألسنة - ت الغماري",
+    "cat": "التخريج والأطراف",
+    "author_id": 34,
+    "date": 902,
+    "pdf": "https://archive.org/download/smqsd_g/",
+    "author_sh": "السخاوي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1266,
+    "title": "المقاصد الحسنة في بيان كثير من الأحاديث المشتهرة على الألسنة - ط الميمنة",
+    "cat": "التخريج والأطراف",
+    "author_id": 34,
+    "date": 902,
+    "pdf": "https://archive.org/download/mqsd_m/",
+    "author_sh": "السخاوي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1267,
+    "title": "كتاب الحج من مدونة أشهب",
+    "cat": "الفقه المالكي",
+    "author_id": 2324,
+    "date": 204,
+    "pdf": "",
+    "author_sh": "أشهب",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1268,
+    "title": "المآخذ على تحقيق ضاري الدوري لكتاب التجريد لابن الفحام",
+    "cat": "التجويد والقراءات",
+    "author_id": 2350,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "محمد عيد محمد عبد الله",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1269,
+    "title": "الإيمان - أبو عبيد - ط المكتب الإسلامي",
+    "cat": "العقيدة",
+    "author_id": 26,
+    "date": 224,
+    "pdf": "https://archive.org/download/emnbdalb/49548.pdf",
+    "author_sh": "أبو عبيد القاسم بن سلام",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12698,
     "title": "سؤالات ابن الجنيد",
     "cat": "العلل والسؤلات الحديثية",
@@ -13517,6 +14298,17 @@
     "author_sh": "يحيى بن معين",
     "num_volumes": 1,
     "total_pages": 218
+  },
+  {
+    "text_id": 1270,
+    "title": "هداية الراغب شرح عمدة الطالب - مع حاشية ابن عوض - ت التركي",
+    "cat": "الفقه الحنبلي",
+    "author_id": 1765,
+    "date": 1097,
+    "pdf": "https://archive.org/download/hdrgbtrki/",
+    "author_sh": "ابن قائد",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12703,
@@ -13539,6 +14331,17 @@
     "author_sh": "ابن أبي الدنيا",
     "num_volumes": 1,
     "total_pages": 271
+  },
+  {
+    "text_id": 1271,
+    "title": "الكشف عن وجوه القراءات السبع وعللها وحججها",
+    "cat": "التجويد والقراءات",
+    "author_id": 1121,
+    "date": 437,
+    "pdf": "https://archive.org/download/kswgqrt/",
+    "author_sh": "مكي بن أبي طالب",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12713,
@@ -13605,6 +14408,17 @@
     "author_sh": "النووي",
     "num_volumes": 1,
     "total_pages": 72
+  },
+  {
+    "text_id": 1272,
+    "title": "التجريد لبغية المريد في القراءات السبع - ت ضاري",
+    "cat": "التجويد والقراءات",
+    "author_id": 2395,
+    "date": 99999,
+    "pdf": "https://archive.org/download/tgrdbgmr/tagreed.pdf",
+    "author_sh": "ابن الفحام",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12720,
@@ -13717,6 +14531,17 @@
     "total_pages": 532
   },
   {
+    "text_id": 1273,
+    "title": "التجريد لبغية المريد في القراءات السبع - ت بدر",
+    "cat": "التجويد والقراءات",
+    "author_id": 2395,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "ابن الفحام",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12730,
     "title": "مختصر القواعد السلفية في الصفات الربانية",
     "cat": "العقيدة",
@@ -13814,6 +14639,17 @@
     "author_sh": "ابن أبي الدنيا",
     "num_volumes": 1,
     "total_pages": 155
+  },
+  {
+    "text_id": 1274,
+    "title": "إحياء الآثار دراسة عقدية",
+    "cat": "العقيدة",
+    "author_id": 2341,
+    "date": 99999,
+    "pdf": "https://archive.org/download/ethardr/ethardr.pdf",
+    "author_sh": "منيرة المقوشي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12740,
@@ -13926,6 +14762,17 @@
     "total_pages": 237
   },
   {
+    "text_id": 1275,
+    "title": "الإيمان - أبو عبيد - ط مسلم",
+    "cat": "العقيدة",
+    "author_id": 26,
+    "date": 224,
+    "pdf": "https://archive.org/download/emoslim/121141.pdf",
+    "author_sh": "أبو عبيد القاسم بن سلام",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12750,
     "title": "معجم الشيوخ لابن عساكر",
     "cat": "كتب السنة",
@@ -14012,6 +14859,17 @@
     "author_sh": "عائشة عبد الرحمن بنت الشاطئ",
     "num_volumes": 1,
     "total_pages": 584
+  },
+  {
+    "text_id": 1276,
+    "title": "إرشاد المبتدي وتذكرة المنتهي في القراءات العشر - رسالة جامعية",
+    "cat": "التجويد والقراءات",
+    "author_id": 2400,
+    "date": 521,
+    "pdf": "https://archive.org/download/ertmq/",
+    "author_sh": "القلانسي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12760,
@@ -14223,6 +15081,17 @@
     "total_pages": 1251
   },
   {
+    "text_id": 1277,
+    "title": "أثر عمل القلب على عبادة الذكر والدعاء",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 491,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "إبراهيم بن حسن الحضريتي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12770,
     "title": "سلم أخلاق النبوة",
     "cat": "كتب عامة",
@@ -14342,6 +15211,17 @@
     "author_sh": "وائل حافظ خلف",
     "num_volumes": 1,
     "total_pages": 91
+  },
+  {
+    "text_id": 1278,
+    "title": "تهذيب التهذيب - ط دبي",
+    "cat": "التراجم والطبقات",
+    "author_id": 202,
+    "date": 852,
+    "pdf": "https://archive.org/download/thzebdobai/",
+    "author_sh": "ابن حجر العسقلاني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12784,
@@ -14586,6 +15466,17 @@
     "total_pages": 34
   },
   {
+    "text_id": 1283,
+    "title": "إرشاد المبتدي وتذكرة المنتهي في القراءات العشر - ط العلمية",
+    "cat": "التجويد والقراءات",
+    "author_id": 2400,
+    "date": 521,
+    "pdf": "https://archive.org/download/ertmq/ertmg.pdf",
+    "author_sh": "القلانسي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12831,
     "title": "كتاب الولاة وكتاب القضاة - ط العلمية",
     "cat": "التراجم والطبقات",
@@ -14661,6 +15552,17 @@
     "author_sh": "محمد إسماعيل المقدم",
     "num_volumes": 1,
     "total_pages": 62
+  },
+  {
+    "text_id": 1284,
+    "title": "صحيح البخاري - ط التأصيل",
+    "cat": "كتب السنة",
+    "author_id": 215,
+    "date": 256,
+    "pdf": "https://archive.org/download/bkhtasel/",
+    "author_sh": "البخاري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12842,
@@ -14905,6 +15807,17 @@
     "total_pages": 35
   },
   {
+    "text_id": 1287,
+    "title": "شرح المقنع للبهاء المقدسي",
+    "cat": "الفقه الحنبلي",
+    "author_id": 991,
+    "date": 624,
+    "pdf": "https://archive.org/download/skmnkb/",
+    "author_sh": "بهاء الدين المقدسي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12872,
     "title": "مختصر قيام الليل وقيام رمضان وكتاب الوتر",
     "cat": "كتب السنة",
@@ -15026,6 +15939,17 @@
     "total_pages": 19271
   },
   {
+    "text_id": 1289,
+    "title": "الإيضاح لما ورد في الكتاب والسنة بشأن الإصلاح",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 2430,
+    "date": 99999,
+    "pdf": "https://archive.org/download/eidkbnslh/eidkbnslh.pdf",
+    "author_sh": "علي بن غازي التويجري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12895,
     "title": "فقه العبادات على المذهب الشافعي",
     "cat": "الفقه الشافعي",
@@ -15046,6 +15970,28 @@
     "author_sh": "سعاد زرزور",
     "num_volumes": 1,
     "total_pages": 424
+  },
+  {
+    "text_id": 1290,
+    "title": "تهذيب التهذيب - ط المعرفة",
+    "cat": "التراجم والطبقات",
+    "author_id": 202,
+    "date": 852,
+    "pdf": "https://archive.org/download/ttmarefa/",
+    "author_sh": "ابن حجر العسقلاني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1291,
+    "title": "نظم نور الإيضاح",
+    "cat": "الفقه الحنفي",
+    "author_id": 2434,
+    "date": 99999,
+    "pdf": "https://archive.org/download/nnrdh/nnrd.pdf",
+    "author_sh": "عبد الكريم بن عبد الله حمزة",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12913,
@@ -15081,6 +16027,17 @@
     "total_pages": 21
   },
   {
+    "text_id": 1292,
+    "title": "تبصير البشر بتحريم السحر",
+    "cat": "مسائل فقهية",
+    "author_id": 2430,
+    "date": 99999,
+    "pdf": "https://archive.org/download/mggsmdna/126_106616.pdf",
+    "author_sh": "علي بن غازي التويجري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12929,
     "title": "مجمع الأمثال",
     "cat": "الأدب",
@@ -15090,6 +16047,17 @@
     "author_sh": "الميداني، أبو الفضل",
     "num_volumes": 2,
     "total_pages": 5115
+  },
+  {
+    "text_id": 1293,
+    "title": "تهذيب التهذيب - ط الرسالة",
+    "cat": "التراجم والطبقات",
+    "author_id": 202,
+    "date": 852,
+    "pdf": "https://archive.org/download/ttresala/",
+    "author_sh": "ابن حجر العسقلاني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12930,
@@ -15136,6 +16104,28 @@
     "total_pages": 194
   },
   {
+    "text_id": 1294,
+    "title": "فوائد القاري من كتاب فتح الباري",
+    "cat": "الجوامع",
+    "author_id": 2460,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "محمد سامي محمد علي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1295,
+    "title": "منهج الكرماني فى كتابه الكواكب الدراري في شرح صحيح البخاري",
+    "cat": "شروح الحديث",
+    "author_id": 2469,
+    "date": 99999,
+    "pdf": "https://archive.org/download/mkkdrr/mkkdrr.pdf",
+    "author_sh": "أحمد محمد أبو نقطة",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 12957,
     "title": "مسألة سبحان لنفطويه",
     "cat": "كتب السنة",
@@ -15156,6 +16146,28 @@
     "author_sh": "ابن حيويه، أبو الحسن",
     "num_volumes": 1,
     "total_pages": 41
+  },
+  {
+    "text_id": 1296,
+    "title": "المنهيات في سورة الحجرات",
+    "cat": "مسائل فقهية",
+    "author_id": 2430,
+    "date": 99999,
+    "pdf": "https://archive.org/download/mggsmdna/139_106625.pdf",
+    "author_sh": "علي بن غازي التويجري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1297,
+    "title": "الاستشفاء بالقرآن الكريم",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 2430,
+    "date": 99999,
+    "pdf": "https://archive.org/download/estshqrn/estshqrn.pdf",
+    "author_sh": "علي بن غازي التويجري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 12978,
@@ -15477,6 +16489,17 @@
     "total_pages": 259
   },
   {
+    "text_id": 1301,
+    "title": "التعليقات على المسائل العقدية في كتاب التسهيل لعلوم التنزيل لابن جزي",
+    "cat": "العقيدة",
+    "author_id": 175,
+    "date": 99999,
+    "pdf": "https://archive.org/download/barrak_202311/taltsheel.pdf",
+    "author_sh": "عبد الرحمن بن ناصر البراك",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13010,
     "title": "التوبيخ والتنبيه لأبي الشيخ الأصبهاني",
     "cat": "الرقائق والآداب والأذكار",
@@ -15574,6 +16597,17 @@
     "author_sh": "الدولابي",
     "num_volumes": 1,
     "total_pages": 277
+  },
+  {
+    "text_id": 1302,
+    "title": "التوضيح للمسائل العقدية في مقدمة الرسالة القيروانية",
+    "cat": "العقيدة",
+    "author_id": 175,
+    "date": 99999,
+    "pdf": "https://archive.org/download/barrak_202311/shqyrwaneya.pdf",
+    "author_sh": "عبد الرحمن بن ناصر البراك",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13020,
@@ -15684,6 +16718,17 @@
     "author_sh": "ابن الأعرابي المحدث",
     "num_volumes": 1,
     "total_pages": 169
+  },
+  {
+    "text_id": 1303,
+    "title": "الأريج في علم أصول التخريج",
+    "cat": "علوم الحديث",
+    "author_id": 1345,
+    "date": 99999,
+    "pdf": "https://archive.org/download/arjtkrej/areej.pdf",
+    "author_sh": "منصور بن عبد الحميد النجار",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13031,
@@ -17270,6 +18315,17 @@
     "total_pages": 586
   },
   {
+    "text_id": 1318,
+    "title": "صفات رب العالمين - ت تمالت",
+    "cat": "العقيدة",
+    "author_id": 2932,
+    "date": 789,
+    "pdf": "https://archive.org/download/sftrb/",
+    "author_sh": "ابن المحب الصامت",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13180,
     "title": "مكارم الأخلاق لابن أبي الدنيا",
     "cat": "كتب السنة",
@@ -17356,6 +18412,17 @@
     "author_sh": "ابن أبي الدنيا",
     "num_volumes": 1,
     "total_pages": 497
+  },
+  {
+    "text_id": 1319,
+    "title": "تيسير مسائل الفقه شرح الروض المربع",
+    "cat": "الفقه الحنبلي",
+    "author_id": 1313,
+    "date": 1435,
+    "pdf": "https://archive.org/download/tmsfkh/",
+    "author_sh": "عبد الكريم النملة",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 132,
@@ -17974,6 +19041,17 @@
     "total_pages": 1399
   },
   {
+    "text_id": 1326,
+    "title": "شرح المختصر الكبير للأبهري",
+    "cat": "الفقه المالكي",
+    "author_id": 1835,
+    "date": 375,
+    "pdf": "",
+    "author_sh": "الأبهري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 132617,
     "title": "الفوائد البهية في تراجم الحنفية - ومعه التعليقات السنية",
     "cat": "التراجم والطبقات",
@@ -18128,6 +19206,17 @@
     "total_pages": 10232
   },
   {
+    "text_id": 1329,
+    "title": "أوهام المحدثين الثقات",
+    "cat": "العلل والسؤلات الحديثية",
+    "author_id": 90,
+    "date": 99999,
+    "pdf": "https://archive.org/download/awhmtheqat/",
+    "author_sh": "سعيد باشنفر",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13295,
     "title": "النكت الجياد المنتخبة من كلام شيخ النقاد",
     "cat": "الجوامع",
@@ -18271,6 +19360,17 @@
     "total_pages": 5295
   },
   {
+    "text_id": 1330,
+    "title": "حدائق الأولياء",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 709,
+    "date": 804,
+    "pdf": "",
+    "author_sh": "ابن الملقن",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13301,
     "title": "شرح المفصل لابن يعيش",
     "cat": "النحو والصرف",
@@ -18293,6 +19393,17 @@
     "total_pages": 288
   },
   {
+    "text_id": 1331,
+    "title": "اختيارات الحافظ الذهبي الفقهية",
+    "cat": "الفقه العام",
+    "author_id": 1297,
+    "date": 99999,
+    "pdf": "https://archive.org/download/ekhtzhbi/ekhtzhbi.pdf",
+    "author_sh": "هانى فقيه",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1332,
     "title": "الآثار لمحمد بن الحسن",
     "cat": "كتب السنة",
@@ -18302,6 +19413,17 @@
     "author_sh": "محمد بن الحسن الشيباني",
     "num_volumes": 2,
     "total_pages": 345
+  },
+  {
+    "text_id": 1333,
+    "title": "إسبال الكلام على حديث ابن عباس في القيام",
+    "cat": "مسائل فقهية",
+    "author_id": 2674,
+    "date": 99999,
+    "pdf": "https://archive.org/download/esblklam/esblklam.pdf",
+    "author_sh": "أحمد الزومان",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 133350,
@@ -18667,6 +19789,17 @@
     "total_pages": 271
   },
   {
+    "text_id": 1335,
+    "title": "نماذج من تقنية المعلومات وأنظمتها الحديثة من منظور مقاصد القرآن الكريم عند ابن عاشور",
+    "cat": "كتب عامة",
+    "author_id": 2701,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "منال محمد أبو العزائم",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1336,
     "title": "أمالي الزجاجي",
     "cat": "الأدب",
@@ -18678,6 +19811,17 @@
     "total_pages": 248
   },
   {
+    "text_id": 1337,
+    "title": "حاشية السندي على سنن الترمذي",
+    "cat": "شروح الحديث",
+    "author_id": 471,
+    "date": 1138,
+    "pdf": "https://archive.org/download/hsntmz/",
+    "author_sh": "محمد بن عبد الهادي السندي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1338,
     "title": "نظرة المستشرقين للسنة النبوية المطهرة (شبهات وردود)",
     "cat": "علوم الحديث",
@@ -18687,6 +19831,17 @@
     "author_sh": "مثنى الزيدي",
     "num_volumes": 1,
     "total_pages": 8
+  },
+  {
+    "text_id": 1339,
+    "title": "سنن النسائي - ط الرسالة",
+    "cat": "كتب السنة",
+    "author_id": 49,
+    "date": 303,
+    "pdf": "https://archive.org/download/snsers/",
+    "author_sh": "النسائي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 134,
@@ -18788,6 +19943,17 @@
     "total_pages": 567
   },
   {
+    "text_id": 1348,
+    "title": "شرح كشف الشبهات - البراك",
+    "cat": "العقيدة",
+    "author_id": 175,
+    "date": 99999,
+    "pdf": "https://archive.org/download/sh_kshsbh/sh_kshsbh.pdf",
+    "author_sh": "عبد الرحمن بن ناصر البراك",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1349,
     "title": "غرر الخصائص الواضحة",
     "cat": "الأدب",
@@ -18821,6 +19987,28 @@
     "total_pages": 4011
   },
   {
+    "text_id": 1351,
+    "title": "شرح نواقض الإسلام - البراك",
+    "cat": "العقيدة",
+    "author_id": 175,
+    "date": 99999,
+    "pdf": "https://archive.org/download/sh_kshsbh/sh_nwqed.pdf",
+    "author_sh": "عبد الرحمن بن ناصر البراك",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1352,
+    "title": "مجمع البحرين في زوائد المعجمين الأوسط والصغير للطبراني",
+    "cat": "كتب السنة",
+    "author_id": 260,
+    "date": 360,
+    "pdf": "https://archive.org/download/mbzmj/",
+    "author_sh": "نور الدين الهيثمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1353,
     "title": "المعجم الكبير للطبراني جـ 13، 14",
     "cat": "كتب السنة",
@@ -18830,6 +20018,28 @@
     "author_sh": "الطبراني",
     "num_volumes": 2,
     "total_pages": 1437
+  },
+  {
+    "text_id": 1354,
+    "title": "دراسات أصولية تطبيقية على آيات الأحكام",
+    "cat": "أصول الفقه",
+    "author_id": 2483,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "عبد الرحمن بن علي الحطاب",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1355,
+    "title": "فتح الجليل في التعليق على كتاب الإكليل",
+    "cat": "أصول الفقه",
+    "author_id": 2483,
+    "date": 99999,
+    "pdf": "https://archive.org/download/fthalam/fthjleel.pdf",
+    "author_sh": "عبد الرحمن بن علي الحطاب",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13550,
@@ -18887,6 +20097,17 @@
     "total_pages": 71
   },
   {
+    "text_id": 1356,
+    "title": "المعتقد وأثره على مسائل أصول الفقه",
+    "cat": "أصول الفقه",
+    "author_id": 2483,
+    "date": 99999,
+    "pdf": "https://archive.org/download/fthalam/mtthrosol.pdf",
+    "author_sh": "عبد الرحمن بن علي الحطاب",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13564,
     "title": "برنامجك في رمضان",
     "cat": "الرقائق والآداب والأذكار",
@@ -18907,6 +20128,17 @@
     "author_sh": "النووي",
     "num_volumes": 1,
     "total_pages": 619
+  },
+  {
+    "text_id": 1357,
+    "title": "حدود حرية الفكر في الشريعة الإسلامية",
+    "cat": "الفرق والردود",
+    "author_id": 1973,
+    "date": 99999,
+    "pdf": "https://archive.org/download/etjromlat/hdhrfkr.pdf",
+    "author_sh": "صالح بن زابن المرزوقي البقمي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13571,
@@ -18964,6 +20196,17 @@
     "total_pages": 130
   },
   {
+    "text_id": 1358,
+    "title": "الاتجار في العملات عبر وسائل الاتصال الحديثة",
+    "cat": "مسائل فقهية",
+    "author_id": 1973,
+    "date": 99999,
+    "pdf": "https://archive.org/download/etjromlat/etjromlat.pdf",
+    "author_sh": "صالح بن زابن المرزوقي البقمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13580,
     "title": "أسرار المحبين في رمضان",
     "cat": "الرقائق والآداب والأذكار",
@@ -18973,6 +20216,17 @@
     "author_sh": "محمد حسين يعقوب",
     "num_volumes": 1,
     "total_pages": 368
+  },
+  {
+    "text_id": 1359,
+    "title": "فتح العلام في بيان مآخذ الأحكام",
+    "cat": "أصول الفقه",
+    "author_id": 2483,
+    "date": 99999,
+    "pdf": "https://archive.org/download/fthalam/fthalam.pdf",
+    "author_sh": "عبد الرحمن بن علي الحطاب",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13592,
@@ -19085,6 +20339,17 @@
     "total_pages": 970
   },
   {
+    "text_id": 1361,
+    "title": "صفة الجنة - الضياء المقدسي - المسندة - جـ 3",
+    "cat": "كتب السنة",
+    "author_id": 603,
+    "date": 643,
+    "pdf": "https://archive.org/download/sftjnad/",
+    "author_sh": "ضياء الدين المقدسي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13614,
     "title": "تحفة الأبرار شرح مصابيح السنة",
     "cat": "شروح الحديث",
@@ -19105,6 +20370,17 @@
     "author_sh": "كمال ابن السيد سالم",
     "num_volumes": 4,
     "total_pages": 1933
+  },
+  {
+    "text_id": 1362,
+    "title": "بر الوالدين - البخاري - ت مكي",
+    "cat": "كتب السنة",
+    "author_id": 215,
+    "date": 256,
+    "pdf": "https://archive.org/download/berrbk/berr.pdf",
+    "author_sh": "البخاري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13620,
@@ -19151,6 +20427,17 @@
     "total_pages": 331
   },
   {
+    "text_id": 1363,
+    "title": "سنن الترمذي - ط الرسالة",
+    "cat": "كتب السنة",
+    "author_id": 217,
+    "date": 279,
+    "pdf": "https://archive.org/download/trmiziresala/",
+    "author_sh": "أبو عيسى الترمذي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13631,
     "title": "مجمع بحار الأنوار",
     "cat": "الغريب والمعاجم",
@@ -19182,6 +20469,17 @@
     "author_sh": "السرمري",
     "num_volumes": 1,
     "total_pages": 125
+  },
+  {
+    "text_id": 1364,
+    "title": "الإجابة لإيراد ما استدركته عائشة على الصحابة - ط الرسالة",
+    "cat": "الفقه العام",
+    "author_id": 93,
+    "date": 794,
+    "pdf": "https://archive.org/download/eleaasa/",
+    "author_sh": "بدر الدين الزركشي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13642,
@@ -19239,6 +20537,17 @@
     "total_pages": 35
   },
   {
+    "text_id": 1366,
+    "title": "الروايتين والوجهين - المسائل العقدية منه",
+    "cat": "العقيدة",
+    "author_id": 1106,
+    "date": 458,
+    "pdf": "https://archive.org/download/wjrwakdia/39750.pdf",
+    "author_sh": "القاضي أبو يعلى ابن الفراء",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13664,
     "title": "منتهى الإرادات في جمع المقنع مع التنقيح وزيادات - ت التركي",
     "cat": "الفقه الحنبلي",
@@ -19294,6 +20603,17 @@
     "total_pages": 12
   },
   {
+    "text_id": 1367,
+    "title": "تهذيب الكلام في حكم أرض مصر والعراق والشام",
+    "cat": "مسائل فقهية",
+    "author_id": 469,
+    "date": 1033,
+    "pdf": "",
+    "author_sh": "مرعي الكرمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 13679,
     "title": "إيناس الناس بتفاحة أبي جعفر النحاس",
     "cat": "النحو والصرف",
@@ -19303,6 +20623,17 @@
     "author_sh": "حازم خنفر",
     "num_volumes": 1,
     "total_pages": 132
+  },
+  {
+    "text_id": 1368,
+    "title": "بر الوالدين - البخاري - ت عبد العاطي",
+    "cat": "كتب السنة",
+    "author_id": 215,
+    "date": 256,
+    "pdf": "https://archive.org/download/berrbkh/berrbkh.pdf",
+    "author_sh": "البخاري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13680,
@@ -19380,6 +20711,17 @@
     "author_sh": "عبد الله بن مانع الروقي",
     "num_volumes": 1,
     "total_pages": 81
+  },
+  {
+    "text_id": 1376,
+    "title": "صحيح البخاري - ن عطاءات العلم",
+    "cat": "كتب السنة",
+    "author_id": 215,
+    "date": 256,
+    "pdf": "https://archive.org/download/sbkhbt/",
+    "author_sh": "البخاري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13768,
@@ -19479,6 +20821,17 @@
     "author_sh": "أبو البقاء العكبري",
     "num_volumes": 1,
     "total_pages": 348
+  },
+  {
+    "text_id": 1379,
+    "title": "أنساب الأشراف - ت حميد الله",
+    "cat": "الأنساب",
+    "author_id": 356,
+    "date": 279,
+    "pdf": "https://archive.org/download/ansbshrf/",
+    "author_sh": "البلاذري",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 13791,
@@ -20009,6 +21362,17 @@
     "total_pages": 816
   },
   {
+    "text_id": 1406,
+    "title": "المغرب في ترتيب المعرب - ت فاخوري ومختار",
+    "cat": "الغريب والمعاجم",
+    "author_id": 903,
+    "date": 610,
+    "pdf": "https://archive.org/download/talalaba/",
+    "author_sh": "المطرزي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1407,
     "title": "التفسير الميسر",
     "cat": "التفسير",
@@ -20350,6 +21714,17 @@
     "total_pages": 754
   },
   {
+    "text_id": 1421,
+    "title": "المشوق إلى القرآن",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 2682,
+    "date": 99999,
+    "pdf": "https://archive.org/download/mshqrn/mshqrn.pdf",
+    "author_sh": "عمرو الشرقاوي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 14211,
     "title": "الرسالة التبوكية زاد المهاجر إلى ربه - ط عطاءات العلم",
     "cat": "الرقائق والآداب والأذكار",
@@ -20458,6 +21833,17 @@
     "author_sh": "إسحاق بن راهويه",
     "num_volumes": 1,
     "total_pages": 43
+  },
+  {
+    "text_id": 1424,
+    "title": "المستدرك على الصحيحين - ط الرسالة",
+    "cat": "كتب السنة",
+    "author_id": 231,
+    "date": 405,
+    "pdf": "https://archive.org/download/mstdrsala/",
+    "author_sh": "أبو عبد الله الحاكم",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 14240,
@@ -20889,6 +22275,17 @@
     "total_pages": 1091
   },
   {
+    "text_id": 1430,
+    "title": "الرسالة لابن أبي زيد القيرواني - نسخة التتائي",
+    "cat": "الفقه المالكي",
+    "author_id": 428,
+    "date": 386,
+    "pdf": "https://archive.org/download/resala_ttae/resala_ttae.pdf",
+    "author_sh": "ابن أبي زيد القيرواني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 14309,
     "title": "التحبير لإيضاح معاني التيسير",
     "cat": "شروح الحديث",
@@ -21186,6 +22583,17 @@
     "total_pages": 545
   },
   {
+    "text_id": 1434,
+    "title": "درر رمضانية من كلام ابن القيم الجوزية",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 1925,
+    "date": 99999,
+    "pdf": "https://archive.org/download/drrmdn/drrmdn.pdf",
+    "author_sh": "أحمد مرشد",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1435,
     "title": "سنن الترمذي - ت شاكر",
     "cat": "كتب السنة",
@@ -21272,6 +22680,17 @@
     "author_sh": "البهوتي",
     "num_volumes": 2,
     "total_pages": 249
+  },
+  {
+    "text_id": 1439,
+    "title": "الدليل إلى القرآن",
+    "cat": "علوم القرآن وأصول التفسير",
+    "author_id": 2682,
+    "date": 99999,
+    "pdf": "https://archive.org/download/dlqrn/dlqrn.pdf",
+    "author_sh": "عمرو الشرقاوي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 143911,
@@ -21602,6 +23021,17 @@
     "author_sh": "بسام العطاوي",
     "num_volumes": 1,
     "total_pages": 96
+  },
+  {
+    "text_id": 1448,
+    "title": "كتاب العلل الواقع بآخر جامع الترمذي - ط الرسالة",
+    "cat": "العلل والسؤلات الحديثية",
+    "author_id": 217,
+    "date": 279,
+    "pdf": "https://archive.org/download/trmiziresala/06_98826.pdf",
+    "author_sh": "أبو عيسى الترمذي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 14483,
@@ -21989,6 +23419,17 @@
     "total_pages": 213
   },
   {
+    "text_id": 1454,
+    "title": "الرحلة في طلب الحديث - ت أبي أويس",
+    "cat": "علوم الحديث",
+    "author_id": 246,
+    "date": 463,
+    "pdf": "https://archive.org/download/rtlbhdeeth/",
+    "author_sh": "الخطيب البغدادي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 145410,
     "title": "بدائع الفوائد - ط عطاءات العلم",
     "cat": "الجوامع",
@@ -22330,6 +23771,17 @@
     "total_pages": 20
   },
   {
+    "text_id": 1457,
+    "title": "رحلة الفضلاء كما وردت بها الأنباء",
+    "cat": "علوم الحديث",
+    "author_id": 1958,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "أبو أويس الكردي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 14571,
     "title": "الأحاديث الضعيفة والموضوعة التي حكم عليها الحافظ ابن كثير في تفسيره",
     "cat": "التخريج والأطراف",
@@ -22383,6 +23835,17 @@
     "author_sh": "الإسنوي",
     "num_volumes": 9,
     "total_pages": 4584
+  },
+  {
+    "text_id": 14582,
+    "title": "الاستيعاب في بيان الأسباب",
+    "cat": "علوم القرآن وأصول التفسير",
+    "author_id": 2627,
+    "date": 1439,
+    "pdf": "https://archive.org/download/estbynsb/",
+    "author_sh": "سليم الهلالي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 1459,
@@ -22473,6 +23936,17 @@
     "total_pages": 4889
   },
   {
+    "text_id": 1460,
+    "title": "الشعلة في شيوخ الخطيب في الرحلة",
+    "cat": "التراجم والطبقات",
+    "author_id": 1958,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "أبو أويس الكردي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 14601,
     "title": "بذل المجهود في حل سنن أبي داود",
     "cat": "شروح الحديث",
@@ -22537,6 +24011,17 @@
     "author_sh": "ابن القصار",
     "num_volumes": 3,
     "total_pages": 1331
+  },
+  {
+    "text_id": 1461,
+    "title": "تيسير اللطيف المنان في خلاصة تفسير القرآن - ت المزيد",
+    "cat": "التفسير",
+    "author_id": 128,
+    "date": 1376,
+    "pdf": "https://archive.org/download/tysltf/",
+    "author_sh": "عبد الرحمن السعدي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 146126,
@@ -22616,6 +24101,17 @@
     "total_pages": 7349
   },
   {
+    "text_id": 1465,
+    "title": "الاستدلال في التفسير دراسة في منهج الطبري",
+    "cat": "علوم القرآن وأصول التفسير",
+    "author_id": 2722,
+    "date": 99999,
+    "pdf": "https://archive.org/download/mntbrst/estdtfsr.pdf",
+    "author_sh": "نايف الزهراني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 1466,
     "title": "السراج المنير في الإعانة على معرفة بعض معاني كلام ربنا الحكيم الخبير",
     "cat": "التفسير",
@@ -22658,6 +24154,17 @@
     "author_sh": "عبد العزيز الطريفي",
     "num_volumes": 1,
     "total_pages": 84
+  },
+  {
+    "text_id": 1470,
+    "title": "النبأ العظيم - ت عمرو الشرقاوي",
+    "cat": "علوم القرآن وأصول التفسير",
+    "author_id": 1119,
+    "date": 1377,
+    "pdf": "https://archive.org/download/nabaazeem/nabaa.pdf",
+    "author_sh": "محمد بن عبد الله دراز",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 147062,
@@ -22836,6 +24343,17 @@
     "total_pages": 254
   },
   {
+    "text_id": 1471,
+    "title": "الجامع العام في فقه الصيام",
+    "cat": "مسائل فقهية",
+    "author_id": 2725,
+    "date": 99999,
+    "pdf": "https://archive.org/download/drrmdn/gamhksm.pdf",
+    "author_sh": "محمد بن علي حلاوة",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 147104,
     "title": "الإبهاج في شرح المنهاج - ط دبي",
     "cat": "أصول الفقه",
@@ -22845,6 +24363,28 @@
     "author_sh": "تاج الدين ابن السبكي",
     "num_volumes": 7,
     "total_pages": 3260
+  },
+  {
+    "text_id": 1472,
+    "title": "الجامع لأحكام الطهارة",
+    "cat": "مسائل فقهية",
+    "author_id": 2725,
+    "date": 99999,
+    "pdf": "https://archive.org/download/drrmdn/ghkmthr.pdf",
+    "author_sh": "محمد بن علي حلاوة",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1473,
+    "title": "استدراك الزيادات على كتاب الرحلة",
+    "cat": "علوم الحديث",
+    "author_id": 1637,
+    "date": 1442,
+    "pdf": "",
+    "author_sh": "نور الدين عتر",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 147311,
@@ -22911,6 +24451,17 @@
     "author_sh": "محمد بن ناصر العبودي",
     "num_volumes": 24,
     "total_pages": 11097
+  },
+  {
+    "text_id": 1474,
+    "title": "جمع السبائك لأحكام المناسك",
+    "cat": "مسائل فقهية",
+    "author_id": 2725,
+    "date": 99999,
+    "pdf": "https://archive.org/download/drrmdn/gsahmnsk.pdf",
+    "author_sh": "محمد بن علي حلاوة",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 1475,
@@ -23309,6 +24860,17 @@
     "total_pages": 207
   },
   {
+    "text_id": 1480,
+    "title": "إتقان ما يحسن من الأخبار الدائرة على الألسن",
+    "cat": "التخريج والأطراف",
+    "author_id": 701,
+    "date": 1061,
+    "pdf": "https://archive.org/download/emysn/emysn.pdf",
+    "author_sh": "نجم الدين الغزي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 148082,
     "title": "التفسير بالبيان المتصل في القرآن الكريم",
     "cat": "علوم القرآن وأصول التفسير",
@@ -23661,6 +25223,17 @@
     "total_pages": 1071
   },
   {
+    "text_id": 1489,
+    "title": "شرح العقيدة التدمرية - البراك",
+    "cat": "العقيدة",
+    "author_id": 175,
+    "date": 99999,
+    "pdf": "https://archive.org/download/shtdm/shtdm.pdf",
+    "author_sh": "عبد الرحمن بن ناصر البراك",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 149,
     "title": "مختصر شرح تسهيل العقيدة الإسلامية - ط 6",
     "cat": "العقيدة",
@@ -23670,6 +25243,17 @@
     "author_sh": "عبد الله بن عبد العزيز الجبرين",
     "num_volumes": 1,
     "total_pages": 203
+  },
+  {
+    "text_id": 1490,
+    "title": "استدراكات السلف في التفسير في القرون الثلاثة الأولى",
+    "cat": "التفسير",
+    "author_id": 2722,
+    "date": 99999,
+    "pdf": "https://archive.org/download/estslft/estslft.pdf",
+    "author_sh": "نايف الزهراني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 149015,
@@ -23694,6 +25278,28 @@
     "total_pages": 73
   },
   {
+    "text_id": 1491,
+    "title": "جامع مرويات استدراكات السلف في التفسير",
+    "cat": "التفسير",
+    "author_id": 2722,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "نايف الزهراني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 1492,
+    "title": "الجامع لفوائد بلوغ المرام",
+    "cat": "شروح الحديث",
+    "author_id": 175,
+    "date": 99999,
+    "pdf": "https://archive.org/download/shtdm/",
+    "author_sh": "عبد الرحمن بن ناصر البراك",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 149213,
     "title": "تذهيب تهذيب الكمال في أسماء الرجال",
     "cat": "التراجم والطبقات",
@@ -23703,6 +25309,17 @@
     "author_sh": "شمس الدين الذهبي",
     "num_volumes": 11,
     "total_pages": 4677
+  },
+  {
+    "text_id": 149481,
+    "title": "ديوان عمرو بن قميئة",
+    "cat": "الدواوين الشعرية",
+    "author_id": 3014,
+    "date": -81,
+    "pdf": "",
+    "author_sh": "عمرو بن قميئة",
+    "num_volumes": 1,
+    "total_pages": 54
   },
   {
     "text_id": 149482,
@@ -23736,6 +25353,17 @@
     "author_sh": "ابن أبي كاهل",
     "num_volumes": 1,
     "total_pages": 32
+  },
+  {
+    "text_id": 1496,
+    "title": "تكملة فتح القدير نتائج الأفكار في كشف الرموز والأسرار",
+    "cat": "الفقه الحنفي",
+    "author_id": 2760,
+    "date": 988,
+    "pdf": "https://archive.org/download/fthkadeer/",
+    "author_sh": "قاضي زاده",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 149697,
@@ -24376,6 +26004,17 @@
     "total_pages": 408
   },
   {
+    "text_id": 151109,
+    "title": "ورثة الأنبياء شرح حديث أبي الدرداء",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 151110,
     "title": "شرح حديث «ما ذئبان جائعان»",
     "cat": "شروح الحديث",
@@ -24385,6 +26024,116 @@
     "author_sh": "ابن رجب الحنبلي",
     "num_volumes": 1,
     "total_pages": 35
+  },
+  {
+    "text_id": 151111,
+    "title": "شرح حديث «لبيك اللهم لبيك»",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151112,
+    "title": "شرح حديث عمار بن ياسر - رضي الله عنه -",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151113,
+    "title": "شرح حديث «مثل الإسلام»",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151114,
+    "title": "غاية النفع في شرح حديث «تمثيل المؤمن بخامة الزرع»",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151115,
+    "title": "الحكم الجديرة بالإذاعة - ضمن مجموع رسائل ابن رجب",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151116,
+    "title": "ذم قسوة القلب",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151117,
+    "title": "ذم الخمر",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151118,
+    "title": "الذل والانكسار للعزيز الجبار",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151119,
+    "title": "كشف الكربة في وصف حال أهل الغربة",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151120,
+    "title": "جزء من الكلام على حديث شداد بن أوس «إذا كنز الناس الذهب والفضة»",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 151121,
@@ -24398,6 +26147,17 @@
     "total_pages": 18
   },
   {
+    "text_id": 151122,
+    "title": "تسلية نفوس النساء والرجال عند فقد الأطفال",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 151123,
     "title": "الفرق بين النصيحة والتعيير",
     "cat": "الرقائق والآداب والأذكار",
@@ -24407,6 +26167,28 @@
     "author_sh": "ابن رجب الحنبلي",
     "num_volumes": 1,
     "total_pages": 16
+  },
+  {
+    "text_id": 151124,
+    "title": "جزء فيه الكلام على حديث يتبع الميت ثلاث",
+    "cat": "شروح الحديث",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151125,
+    "title": "صدقة السر وفضلها",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 151126,
@@ -24442,6 +26224,28 @@
     "total_pages": 15
   },
   {
+    "text_id": 151129,
+    "title": "تفسير سورة الإخلاص",
+    "cat": "التفسير",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151130,
+    "title": "مقدمة تشتمل على أن جميع الرسل كان دينهم الإسلام",
+    "cat": "العقيدة",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 151131,
     "title": "القول الصواب في تزويج أمهات أولاد الغياب",
     "cat": "مسائل فقهية",
@@ -24473,6 +26277,28 @@
     "author_sh": "ابن رجب الحنبلي",
     "num_volumes": 1,
     "total_pages": 7
+  },
+  {
+    "text_id": 151134,
+    "title": "الرد على من اتبع غير المذاهب الأربعة",
+    "cat": "أصول الفقه",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 151135,
+    "title": "مختصر في معاملة الظالم السارق",
+    "cat": "مسائل فقهية",
+    "author_id": 184,
+    "date": 795,
+    "pdf": "",
+    "author_sh": "ابن رجب الحنبلي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 151136,
@@ -25212,6 +27038,17 @@
     "total_pages": 4163
   },
   {
+    "text_id": 1559,
+    "title": "أسد الغابة في معرفة الصحابة - المطبعة الوهبية",
+    "cat": "التراجم والطبقات",
+    "author_id": 244,
+    "date": 630,
+    "pdf": "https://archive.org/download/asd_wahbea/",
+    "author_sh": "عز الدين ابن الأثير",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 156,
     "title": "التحقيقات على شرح الجلال للورقات",
     "cat": "أصول الفقه",
@@ -25232,6 +27069,17 @@
     "author_sh": "عبد الوهاب بن طويلة",
     "num_volumes": 1,
     "total_pages": 116
+  },
+  {
+    "text_id": 1564,
+    "title": "أسد الغابة في معرفة الصحابة - ط الشعب",
+    "cat": "التراجم والطبقات",
+    "author_id": 244,
+    "date": 630,
+    "pdf": "https://archive.org/download/asd_shaab/",
+    "author_sh": "عز الدين ابن الأثير",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 1565,
@@ -34639,6 +36487,17 @@
     "total_pages": 2
   },
   {
+    "text_id": 21634,
+    "title": "المشيخة البغدادية لأبي طاهر السلفي (1 - 35) ت المزيدي",
+    "cat": "التجويد والقراءات",
+    "author_id": 241,
+    "date": 576,
+    "pdf": "https://archive.org/download/mshbgd/",
+    "author_sh": "أبو طاهر السلفي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 21635,
     "title": "المنتقى من مسموعات مرو - الضياء المقدسي",
     "cat": "كتب السنة",
@@ -38720,6 +40579,17 @@
     "total_pages": 21
   },
   {
+    "text_id": 23644,
+    "title": "مرآة الزمان في تواريخ الأعيان",
+    "cat": "التاريخ",
+    "author_id": 1700,
+    "date": 654,
+    "pdf": "https://archive.org/download/merzaman/",
+    "author_sh": "سبط ابن الجوزي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 23645,
     "title": "الشفا بتعريف حقوق المصطفى - محذوف الأسانيد",
     "cat": "السيرة النبوية",
@@ -39103,6 +40973,17 @@
     "author_sh": "خلدون ربابعة",
     "num_volumes": 1,
     "total_pages": 139
+  },
+  {
+    "text_id": 23700,
+    "title": "أسد الغابة في معرفة الصحابة - ط الفكر",
+    "cat": "التراجم والطبقات",
+    "author_id": 244,
+    "date": 630,
+    "pdf": "https://archive.org/download/FPogms/",
+    "author_sh": "عز الدين ابن الأثير",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 23708,
@@ -40049,6 +41930,17 @@
     "author_sh": "ناصر الدين الألباني",
     "num_volumes": 8,
     "total_pages": 3494
+  },
+  {
+    "text_id": 259,
+    "title": "كشف الظنون عن أسامي الكتب والفنون - ط الفرقان",
+    "cat": "فهارس الكتب والأدلة",
+    "author_id": 321,
+    "date": 1067,
+    "pdf": "https://archive.org/download/kashf_furqan/",
+    "author_sh": "حاجي خليفة",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 25946,
@@ -43747,6 +45639,17 @@
     "total_pages": 730
   },
   {
+    "text_id": 284,
+    "title": "محاضرات الشنقيطي",
+    "cat": "الجوامع",
+    "author_id": 114,
+    "date": 1393,
+    "pdf": "https://archive.org/download/mohadarat_shankiti/mohadarat.pdf",
+    "author_sh": "محمد الأمين الشنقيطي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 28453,
     "title": "الأخبار الموفقيات للزبير بن بكار",
     "cat": "كتب السنة",
@@ -44889,6 +46792,17 @@
     "author_sh": "الإيجي، محمد بن عبد الرحمن",
     "num_volumes": 4,
     "total_pages": 2266
+  },
+  {
+    "text_id": 29744,
+    "title": "مجلسان من أمالي طراد الزينبي",
+    "cat": "كتب السنة",
+    "author_id": 2196,
+    "date": 491,
+    "pdf": "",
+    "author_sh": "طراد الزينبي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 29745,
@@ -46123,6 +48037,17 @@
     "total_pages": 232
   },
   {
+    "text_id": 30045,
+    "title": "مجلس الروضة - طراد الزينبي",
+    "cat": "كتب السنة",
+    "author_id": 2196,
+    "date": 491,
+    "pdf": "",
+    "author_sh": "طراد الزينبي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 30047,
     "title": "جزء فيه ثلاثة أحاديث مسلسلة",
     "cat": "كتب السنة",
@@ -46154,6 +48079,17 @@
     "author_sh": "عز الدين بن عبد السلام",
     "num_volumes": 1,
     "total_pages": 23
+  },
+  {
+    "text_id": 30054,
+    "title": "حديث مطين",
+    "cat": "كتب السنة",
+    "author_id": 2567,
+    "date": 297,
+    "pdf": "https://archive.org/download/motayan/motayan.pdf",
+    "author_sh": "مطين",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 30055,
@@ -46200,6 +48136,116 @@
     "total_pages": 105
   },
   {
+    "text_id": 30082,
+    "title": "المختصر في أصول الفقه",
+    "cat": "أصول الفقه",
+    "author_id": 1373,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "عبد الفتاح مصيلحي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30086,
+    "title": "التعريف والإخبار بتخريج أحاديث الاختيار",
+    "cat": "التخريج والأطراف",
+    "author_id": 696,
+    "date": 879,
+    "pdf": "https://archive.org/download/tarefkhbar/",
+    "author_sh": "ابن قطلوبغا",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30090,
+    "title": "جامع المسائل والقواعد في علم الأصول والمقاصد",
+    "cat": "أصول الفقه",
+    "author_id": 1373,
+    "date": 99999,
+    "pdf": "https://archive.org/download/moselhi/",
+    "author_sh": "عبد الفتاح مصيلحي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30092,
+    "title": "رسالة في الأدب لأصحاب الطلب",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 1373,
+    "date": 99999,
+    "pdf": "https://archive.org/download/moselhi/rsadb.pdf",
+    "author_sh": "عبد الفتاح مصيلحي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30093,
+    "title": "سيل الأقلام بفوائد من كتاب العلم من صحيح الإمام",
+    "cat": "شروح الحديث",
+    "author_id": 1373,
+    "date": 99999,
+    "pdf": "https://archive.org/download/moselhi/sqlfbkh.pdf",
+    "author_sh": "عبد الفتاح مصيلحي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30095,
+    "title": "المشيخة البغدادية لأبي طاهر السلفي (1 - 10) ت بو شامة",
+    "cat": "التجويد والقراءات",
+    "author_id": 241,
+    "date": 576,
+    "pdf": "https://archive.org/download/mshbgd/mshbgd.pdf",
+    "author_sh": "أبو طاهر السلفي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30096,
+    "title": "التسهيل في فقه الإمام أحمد - وزارة الأوقاف الكويتية",
+    "cat": "الفقه الحنبلي",
+    "author_id": 208,
+    "date": 1445,
+    "pdf": "https://archive.org/download/tsheelfqh/",
+    "author_sh": "مجموعة من المؤلفين",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30097,
+    "title": "البداية والنهاية - ط دار ابن كثير",
+    "cat": "التاريخ",
+    "author_id": 3,
+    "date": 774,
+    "pdf": "https://archive.org/download/bedaya_katheer/",
+    "author_sh": "ابن كثير",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30098,
+    "title": "البداية والنهاية - تكملة - ط دار ابن كثير",
+    "cat": "التاريخ",
+    "author_id": 3,
+    "date": 774,
+    "pdf": "https://archive.org/download/bedaya_16/bedaya_16.pdf",
+    "author_sh": "ابن كثير",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30099,
+    "title": "تغير الأجل وأثره في الديون",
+    "cat": "مسائل فقهية",
+    "author_id": 1418,
+    "date": 99999,
+    "pdf": "https://archive.org/download/tajal/tajal.pdf",
+    "author_sh": "مرضي العنزي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 301,
     "title": "تحقيق الاحتجاج بالقدر لابن تيمية",
     "cat": "العقيدة",
@@ -46209,6 +48255,182 @@
     "author_sh": "ابن تيمية",
     "num_volumes": 1,
     "total_pages": 27
+  },
+  {
+    "text_id": 30103,
+    "title": "عوالي طراد الزينبي",
+    "cat": "كتب السنة",
+    "author_id": 2196,
+    "date": 491,
+    "pdf": "",
+    "author_sh": "طراد الزينبي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30104,
+    "title": "التحفة البهية في شرح رسالة العبودية",
+    "cat": "العقيدة",
+    "author_id": 1083,
+    "date": 99999,
+    "pdf": "https://archive.org/download/tbrsobd/tbrsobd.pdf",
+    "author_sh": "محمد بن خليفة التميمي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30106,
+    "title": "جزء ابن فارس",
+    "cat": "كتب السنة",
+    "author_id": 2600,
+    "date": 346,
+    "pdf": "",
+    "author_sh": "ابن فارس الأصبهاني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30110,
+    "title": "جزء السقطي",
+    "cat": "كتب السنة",
+    "author_id": 2619,
+    "date": 362,
+    "pdf": "",
+    "author_sh": "أبو عمرو السقطي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30113,
+    "title": "جزء ابن نجيد - ت جرار",
+    "cat": "كتب السنة",
+    "author_id": 1288,
+    "date": 366,
+    "pdf": "",
+    "author_sh": "ابن نجيد",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30114,
+    "title": "جزء ابن ثرثال - ت جرار",
+    "cat": "كتب السنة",
+    "author_id": 1223,
+    "date": 408,
+    "pdf": "",
+    "author_sh": "ابن ثرثال",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30116,
+    "title": "حديث أبي إسحاق الحبال",
+    "cat": "كتب السنة",
+    "author_id": 1664,
+    "date": 482,
+    "pdf": "",
+    "author_sh": "أبو إسحاق الحبال",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30117,
+    "title": "أحاديث منصور بن عمار",
+    "cat": "كتب السنة",
+    "author_id": 2534,
+    "date": 225,
+    "pdf": "",
+    "author_sh": "منصور بن عمار",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30118,
+    "title": "مجلس ابن هزارمرد",
+    "cat": "كتب السنة",
+    "author_id": 2563,
+    "date": 469,
+    "pdf": "",
+    "author_sh": "ابن هزارمرد",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30122,
+    "title": "جزء المناديلي",
+    "cat": "كتب السنة",
+    "author_id": 2575,
+    "date": 467,
+    "pdf": "",
+    "author_sh": "أبو القاسم المناديلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30123,
+    "title": "أحاديث المناديلي",
+    "cat": "كتب السنة",
+    "author_id": 2575,
+    "date": 467,
+    "pdf": "",
+    "author_sh": "أبو القاسم المناديلي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30124,
+    "title": "خمسة أحاديث من رواية ابن العربي المتأخر",
+    "cat": "كتب السنة",
+    "author_id": 2520,
+    "date": 617,
+    "pdf": "",
+    "author_sh": "ابن العربي المتأخر",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30125,
+    "title": "جزء فيه من الأخبار والحكايات من كلام العلماء",
+    "cat": "كتب السنة",
+    "author_id": 2567,
+    "date": 297,
+    "pdf": "",
+    "author_sh": "مطين",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30126,
+    "title": "رسالة الإمام مالك في السنن والمواعظ والآداب",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 214,
+    "date": 179,
+    "pdf": "https://archive.org/download/rsimam/rsimam.pdf",
+    "author_sh": "مالك بن أنس",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30127,
+    "title": "المقدمة ذات النقاب في الألقاب",
+    "cat": "التراجم والطبقات",
+    "author_id": 362,
+    "date": 748,
+    "pdf": "https://archive.org/download/mqalqab/26901.pdf",
+    "author_sh": "شمس الدين الذهبي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30131,
+    "title": "الرسالة الندية في القواعد الفقهية",
+    "cat": "علوم الفقه والقواعد الفقهية",
+    "author_id": 1373,
+    "date": 99999,
+    "pdf": "https://archive.org/download/moselhi/rsnqf.pdf",
+    "author_sh": "عبد الفتاح مصيلحي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 30134,
@@ -47245,6 +49467,83 @@
     "total_pages": 47
   },
   {
+    "text_id": 30621,
+    "title": "الحرز الثمين للحصن الحصين",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 421,
+    "date": 1014,
+    "pdf": "https://archive.org/download/hrzthmn/144993.pdf",
+    "author_sh": "الملا على القاري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30622,
+    "title": "شرح حلية طالب العلم - الشثري",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 666,
+    "date": 99999,
+    "pdf": "https://archive.org/download/shrhltb/shrhltb.pdf",
+    "author_sh": "سعد الشثري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30623,
+    "title": "الأمالي الشارحة لمفردات الفاتحة",
+    "cat": "التفسير",
+    "author_id": 434,
+    "date": 623,
+    "pdf": "https://archive.org/download/amshrh/amsh.pdf",
+    "author_sh": "الرافعي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30625,
+    "title": "مصنفات طراد الزينبي وأجزاء أخرى",
+    "cat": "كتب السنة",
+    "author_id": 208,
+    "date": 99999,
+    "pdf": "https://archive.org/download/terad/terad.pdf",
+    "author_sh": "مجموعة من المؤلفين",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30626,
+    "title": "المنتقى من مسند أبي بكر محمد بن هارون الروياني",
+    "cat": "كتب السنة",
+    "author_id": 395,
+    "date": 307,
+    "pdf": "https://archive.org/download/royane/royane.pdf",
+    "author_sh": "محمد بن هارون الروياني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30628,
+    "title": "الاختيارات الفقهية للشيخ محمد بن إبراهيم في مسائل العبادات",
+    "cat": "الفقه العام",
+    "author_id": 591,
+    "date": 1389,
+    "pdf": "https://archive.org/download/ekhtbnb/ekhtbnb.pdf",
+    "author_sh": "محمد بن إبراهيم آل الشيخ",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30631,
+    "title": "الزبد المليح من كتاب الجواب الصحيح لمن بدل دين المسيح",
+    "cat": "الفرق والردود",
+    "author_id": 3055,
+    "date": 99999,
+    "pdf": "https://archive.org/download/zmleeh/zmleeh.pdf",
+    "author_sh": "عبد الإله بن عبد الله بن علي جابر",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 30644,
     "title": "الخامس من معجم شيوخ الدمياطي",
     "cat": "كتب السنة",
@@ -47353,6 +49652,28 @@
     "author_sh": "ابن حجر العسقلاني",
     "num_volumes": 1,
     "total_pages": 17
+  },
+  {
+    "text_id": 30725,
+    "title": "تسعة مجالس من أمالي طراد الزينبي",
+    "cat": "كتب السنة",
+    "author_id": 2196,
+    "date": 491,
+    "pdf": "",
+    "author_sh": "طراد الزينبي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
+    "text_id": 30731,
+    "title": "جزء العبدي",
+    "cat": "كتب السنة",
+    "author_id": 2265,
+    "date": 599,
+    "pdf": "",
+    "author_sh": "أبو الحسن العبدي",
+    "num_volumes": 1,
+    "total_pages": 56
   },
   {
     "text_id": 30733,
@@ -49434,6 +51755,17 @@
     "total_pages": 61
   },
   {
+    "text_id": 319,
+    "title": "شرح بيت ومعناه - ضمن «آثار المعلمي»",
+    "cat": "الأدب",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/20_137200s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 3197,
     "title": "جماع العلم",
     "cat": "أصول الفقه",
@@ -49718,6 +52050,17 @@
     "author_sh": "مالك بن نبي",
     "num_volumes": 1,
     "total_pages": 213
+  },
+  {
+    "text_id": 327,
+    "title": "تخريج الكلم الطيب",
+    "cat": "الرقائق والآداب والأذكار",
+    "author_id": 54,
+    "date": 728,
+    "pdf": "",
+    "author_sh": "ابن تيمية",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 3270,
@@ -54131,6 +56474,17 @@
     "total_pages": 10
   },
   {
+    "text_id": 373,
+    "title": "تفسير أول البقرة (1 - 5) - ضمن «آثار المعلمي»",
+    "cat": "التفسير",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/07_137187s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 37311,
     "title": "هكذا كان الصالحون",
     "cat": "الرقائق والآداب والأذكار",
@@ -54910,6 +57264,17 @@
     "author_sh": "الصفدي",
     "num_volumes": 1,
     "total_pages": 77
+  },
+  {
+    "text_id": 375,
+    "title": "ارتباط قوله تعالى: {حافظوا على الصلوات. . .} بما قبله وما بعده - ضمن «آثار المعلمي»",
+    "cat": "التفسير",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/07_137187s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 37528,
@@ -56120,6 +58485,17 @@
     "author_sh": "محمد حسن عبد الغفار",
     "num_volumes": 9,
     "total_pages": 80
+  },
+  {
+    "text_id": 377,
+    "title": "تفسير أول المائدة (1 - 3) - ضمن «آثار المعلمي»",
+    "cat": "التفسير",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/07_137187s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 37700,
@@ -57596,6 +59972,17 @@
     "total_pages": 673
   },
   {
+    "text_id": 382,
+    "title": "إعراب قوله تعالى: {وأن ليس للإنسان إلا ما سعى} - ضمن «آثار المعلمي»",
+    "cat": "التفسير",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/07_137187s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 38202,
     "title": "نهاية المراد من كلام خير العباد",
     "cat": "كتب السنة",
@@ -57673,6 +60060,17 @@
     "total_pages": 78
   },
   {
+    "text_id": 383,
+    "title": "إعراب قوله: {أن كان ذا مال وبنين} - ضمن «آثار المعلمي»",
+    "cat": "التفسير",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/07_137187s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 384,
     "title": "الفقه الإسلامي وأدلته للزحيلي",
     "cat": "الفقه العام",
@@ -57682,6 +60080,17 @@
     "author_sh": "وهبة الزحيلي",
     "num_volumes": 10,
     "total_pages": 7721
+  },
+  {
+    "text_id": 385,
+    "title": "إعراب: {الحاقة ما الحاقة} ونحوه - ضمن «آثار المعلمي»",
+    "cat": "التفسير",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/07_137187s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 386,
@@ -58023,6 +60432,17 @@
     "author_sh": "ابن منده محمد بن إسحاق",
     "num_volumes": 1,
     "total_pages": 34
+  },
+  {
+    "text_id": 398,
+    "title": "فوائد في كتاب «العلل» لابن أبي حاتم - ضمن «آثار المعلمي»",
+    "cat": "العلل والسؤلات الحديثية",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/15_137195s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 3981,
@@ -59026,6 +61446,17 @@
     "total_pages": 3236
   },
   {
+    "text_id": 441,
+    "title": "بحث في وقت تشريع ونزول آية صلاة الخوف - ضمن «آثار المعلمي»",
+    "cat": "مسائل فقهية",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/16-17_137196s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 4410,
     "title": "مصابيح الدرر في تناسب آيات القرآن الكريم والسور",
     "cat": "علوم القرآن وأصول التفسير",
@@ -59994,6 +62425,17 @@
     "total_pages": 33
   },
   {
+    "text_id": 502,
+    "title": "الكلام على تصريف «ذو» - ضمن «آثار المعلمي»",
+    "cat": "النحو والصرف",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/20_137200s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 5023,
     "title": "كيف نفهم التوحيد",
     "cat": "العقيدة",
@@ -60003,6 +62445,17 @@
     "author_sh": "محمد بن أحمد باشميل",
     "num_volumes": 1,
     "total_pages": 48
+  },
+  {
+    "text_id": 503,
+    "title": "إشكال صرفي وجوابه - ضمن «آثار المعلمي»",
+    "cat": "النحو والصرف",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/20_137200s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 504,
@@ -60071,6 +62524,17 @@
     "total_pages": 398
   },
   {
+    "text_id": 507,
+    "title": "اختصار كتاب «درة الغواص» - ضمن «آثار المعلمي»",
+    "cat": "كتب اللغة",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/20_137200s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 5075,
     "title": "محمد بن عبد الوهاب داعية التوحيد والتجديد في العصر الحديث",
     "cat": "التراجم والطبقات",
@@ -60091,6 +62555,17 @@
     "author_sh": "عبد الرحمن المعلمي اليماني",
     "num_volumes": 1,
     "total_pages": 35
+  },
+  {
+    "text_id": 509,
+    "title": "مناظرة أدبية بين المعلمي والشاعر الأديب علي بن محمد السنوسي - ضمن «آثار المعلمي»",
+    "cat": "العروض والقوافي",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/20_137200s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 51,
@@ -60258,6 +62733,17 @@
     "total_pages": 5
   },
   {
+    "text_id": 519,
+    "title": "تنبيهات على الكامل للمبرد نشرة زكي مبارك - ضمن «آثار المعلمي»",
+    "cat": "الأدب",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/23_137203s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 5190,
     "title": "موسوعات الفقه الإسلامي أو معاجم القوانين الفقهية",
     "cat": "فهارس الكتب والأدلة",
@@ -60278,6 +62764,17 @@
     "author_sh": "الرامهرمزي",
     "num_volumes": 1,
     "total_pages": 696
+  },
+  {
+    "text_id": 520,
+    "title": "تنبيهات على الجزء الأول من معجم الأدباء ط أحمد فريد الرفاعي. - ضمن «آثار المعلمي»",
+    "cat": "التراجم والطبقات",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/23_137203s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 5208,
@@ -60357,6 +62854,17 @@
     "total_pages": 16
   },
   {
+    "text_id": 527,
+    "title": "الجهاد سنام الدين - ضمن «آثار المعلمي»",
+    "cat": "كتب عامة",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/22_137202s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 528,
     "title": "الفوائد الحديثية - ضمن «آثار المعلمي»",
     "cat": "شروح الحديث",
@@ -60366,6 +62874,17 @@
     "author_sh": "عبد الرحمن المعلمي اليماني",
     "num_volumes": 1,
     "total_pages": 139
+  },
+  {
+    "text_id": 529,
+    "title": "نصيحة لطالب الحق - ضمن «آثار المعلمي»",
+    "cat": "كتب عامة",
+    "author_id": 178,
+    "date": 1386,
+    "pdf": "https://archive.org/download/moalemee/22_137202s.pdf",
+    "author_sh": "عبد الرحمن المعلمي اليماني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 53,
@@ -60883,6 +63402,17 @@
     "author_sh": "ابن باز",
     "num_volumes": 1,
     "total_pages": 58
+  },
+  {
+    "text_id": 5414,
+    "title": "الحواشى على سنن ابن ماجه",
+    "cat": "شروح الحديث",
+    "author_id": 361,
+    "date": 841,
+    "pdf": "https://archive.org/download/hsnbnmja/",
+    "author_sh": "البرهان الحلبي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 5416,
@@ -65923,6 +68453,17 @@
     "total_pages": 93
   },
   {
+    "text_id": 636,
+    "title": "الديباج لأبي عبيدة",
+    "cat": "الأدب",
+    "author_id": 5,
+    "date": 209,
+    "pdf": "",
+    "author_sh": "أبو عبيدة معمر بن المثنى",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 6362,
     "title": "توضيح المقاصد شرح نونية ابن القيم الكافية الشافية",
     "cat": "العقيدة",
@@ -69366,6 +71907,17 @@
     "total_pages": 29
   },
   {
+    "text_id": 696,
+    "title": "عقد الدرر في شرح مختصر نخبة الفكر",
+    "cat": "علوم الحديث",
+    "author_id": 166,
+    "date": 1342,
+    "pdf": "https://archive.org/download/adrnkhb/adrnkhb.pdf",
+    "author_sh": "محمود شكري الألوسي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 6961,
     "title": "الجمل في النحو",
     "cat": "النحو والصرف",
@@ -70301,6 +72853,17 @@
     "total_pages": 152
   },
   {
+    "text_id": 718,
+    "title": "المختصر المحتاج إليه من تاريخ ابن الدبيثي - ط العلمية",
+    "cat": "التراجم والطبقات",
+    "author_id": 362,
+    "date": 748,
+    "pdf": "",
+    "author_sh": "شمس الدين الذهبي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 719,
     "title": "الجمل في المنطق",
     "cat": "المنطق",
@@ -70805,6 +73368,17 @@
     "author_sh": "ابن تيمية",
     "num_volumes": 38,
     "total_pages": 16874
+  },
+  {
+    "text_id": 729,
+    "title": "ذيل تاريخ بغداد - ابن النجار - ط العلمية",
+    "cat": "التراجم والطبقات",
+    "author_id": 706,
+    "date": 643,
+    "pdf": "https://archive.org/download/tbgdelm/",
+    "author_sh": "محب الدين ابن النجار",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 7292,
@@ -71687,6 +74261,17 @@
     "total_pages": 1406
   },
   {
+    "text_id": 745,
+    "title": "المستفاد من ذيل تاريخ بغداد - ط العلمية",
+    "cat": "التراجم والطبقات",
+    "author_id": 2484,
+    "date": 749,
+    "pdf": "https://archive.org/download/tbgdelm/21_77941.pdf",
+    "author_sh": "ابن أيبك الدمياطي",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 7450,
     "title": "سيرة ابن هشام ت طه عبد الرؤوف سعد",
     "cat": "السيرة النبوية",
@@ -71784,6 +74369,17 @@
     "author_sh": "محمد محمود محمدين",
     "num_volumes": 1,
     "total_pages": 746
+  },
+  {
+    "text_id": 747,
+    "title": "السهم المصيب في الرد على الخطيب - ط العلمية",
+    "cat": "التراجم والطبقات",
+    "author_id": 2486,
+    "date": 99999,
+    "pdf": "https://archive.org/download/tbgdelm/22_77942.pdf",
+    "author_sh": "الملك المعظم عيسى الأيوبي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 7470,
@@ -72389,6 +74985,17 @@
     "author_sh": "محمد بن إبراهيم الحمد",
     "num_volumes": 1,
     "total_pages": 57
+  },
+  {
+    "text_id": 7531,
+    "title": "حديث الجويباري في مسائل عبد الله بن سلام للبيهقي",
+    "cat": "كتب السنة",
+    "author_id": 74,
+    "date": 458,
+    "pdf": "",
+    "author_sh": "أبو بكر البيهقي",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 7532,
@@ -76956,6 +79563,17 @@
     "total_pages": 524
   },
   {
+    "text_id": 839,
+    "title": "المستدرك على موسوعة التفسير المأثور",
+    "cat": "التفسير",
+    "author_id": 208,
+    "date": 99999,
+    "pdf": "",
+    "author_sh": "مجموعة من المؤلفين",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 84,
     "title": "المصنف - عبد الرزاق - ط التأصيل الثانية",
     "cat": "كتب السنة",
@@ -78835,6 +81453,17 @@
     "author_sh": "عبد الله بن صالح المحسن",
     "num_volumes": 1,
     "total_pages": 123
+  },
+  {
+    "text_id": 872,
+    "title": "تقييد المهمل وتمييز المشكل - ط عالم الفوائد",
+    "cat": "التراجم والطبقات",
+    "author_id": 669,
+    "date": 498,
+    "pdf": "https://archive.org/download/tqeedmhml/",
+    "author_sh": "أبو علي الغساني الجياني",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 8725,
@@ -87296,6 +89925,17 @@
     "total_pages": 820
   },
   {
+    "text_id": 9773,
+    "title": "أنساب الأشراف - ط الفكر",
+    "cat": "الأنساب",
+    "author_id": 356,
+    "date": 279,
+    "pdf": "https://archive.org/download/jmlansbshrf/",
+    "author_sh": "البلاذري",
+    "num_volumes": 0,
+    "total_pages": 0
+  },
+  {
     "text_id": 9775,
     "title": "صب العذاب على من سب الأصحاب",
     "cat": "العقيدة",
@@ -87635,6 +90275,17 @@
     "author_sh": "إبراهيم بن عبد الله المديهش",
     "num_volumes": 1,
     "total_pages": 1204
+  },
+  {
+    "text_id": 9798,
+    "title": "تفسير ابن كمال باشا",
+    "cat": "التفسير",
+    "author_id": 1592,
+    "date": 940,
+    "pdf": "https://archive.org/download/tikba/",
+    "author_sh": "ابن كمال باشا",
+    "num_volumes": 0,
+    "total_pages": 0
   },
   {
     "text_id": 9799,
